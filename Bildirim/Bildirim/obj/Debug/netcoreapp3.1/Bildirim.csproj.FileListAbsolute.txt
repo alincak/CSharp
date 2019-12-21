@@ -1,0 +1,11 @@
+D:\Development\CSharp\Bildirim\Bildirim\bin\Debug\netcoreapp3.1\Bildirim.exe
+D:\Development\CSharp\Bildirim\Bildirim\bin\Debug\netcoreapp3.1\Bildirim.deps.json
+D:\Development\CSharp\Bildirim\Bildirim\bin\Debug\netcoreapp3.1\Bildirim.runtimeconfig.json
+D:\Development\CSharp\Bildirim\Bildirim\bin\Debug\netcoreapp3.1\Bildirim.runtimeconfig.dev.json
+D:\Development\CSharp\Bildirim\Bildirim\bin\Debug\netcoreapp3.1\Bildirim.dll
+D:\Development\CSharp\Bildirim\Bildirim\bin\Debug\netcoreapp3.1\Bildirim.pdb
+D:\Development\CSharp\Bildirim\Bildirim\obj\Debug\netcoreapp3.1\Bildirim.csprojAssemblyReference.cache
+D:\Development\CSharp\Bildirim\Bildirim\obj\Debug\netcoreapp3.1\Bildirim.AssemblyInfoInputs.cache
+D:\Development\CSharp\Bildirim\Bildirim\obj\Debug\netcoreapp3.1\Bildirim.AssemblyInfo.cs
+D:\Development\CSharp\Bildirim\Bildirim\obj\Debug\netcoreapp3.1\Bildirim.dll
+D:\Development\CSharp\Bildirim\Bildirim\obj\Debug\netcoreapp3.1\Bildirim.pdb
