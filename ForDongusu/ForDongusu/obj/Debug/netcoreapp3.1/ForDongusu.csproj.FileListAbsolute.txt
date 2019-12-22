@@ -1,0 +1,11 @@
+D:\Development\CSharp\ForDongusu\ForDongusu\bin\Debug\netcoreapp3.1\ForDongusu.exe
+D:\Development\CSharp\ForDongusu\ForDongusu\bin\Debug\netcoreapp3.1\ForDongusu.deps.json
+D:\Development\CSharp\ForDongusu\ForDongusu\bin\Debug\netcoreapp3.1\ForDongusu.runtimeconfig.json
+D:\Development\CSharp\ForDongusu\ForDongusu\bin\Debug\netcoreapp3.1\ForDongusu.runtimeconfig.dev.json
+D:\Development\CSharp\ForDongusu\ForDongusu\bin\Debug\netcoreapp3.1\ForDongusu.dll
+D:\Development\CSharp\ForDongusu\ForDongusu\bin\Debug\netcoreapp3.1\ForDongusu.pdb
+D:\Development\CSharp\ForDongusu\ForDongusu\obj\Debug\netcoreapp3.1\ForDongusu.csprojAssemblyReference.cache
+D:\Development\CSharp\ForDongusu\ForDongusu\obj\Debug\netcoreapp3.1\ForDongusu.AssemblyInfoInputs.cache
+D:\Development\CSharp\ForDongusu\ForDongusu\obj\Debug\netcoreapp3.1\ForDongusu.AssemblyInfo.cs
+D:\Development\CSharp\ForDongusu\ForDongusu\obj\Debug\netcoreapp3.1\ForDongusu.dll
+D:\Development\CSharp\ForDongusu\ForDongusu\obj\Debug\netcoreapp3.1\ForDongusu.pdb
