@@ -1,0 +1,11 @@
+D:\Development\CSharp\WhileDongusu\WhileDongusu\bin\Debug\netcoreapp3.1\WhileDongusu.exe
+D:\Development\CSharp\WhileDongusu\WhileDongusu\bin\Debug\netcoreapp3.1\WhileDongusu.deps.json
+D:\Development\CSharp\WhileDongusu\WhileDongusu\bin\Debug\netcoreapp3.1\WhileDongusu.runtimeconfig.json
+D:\Development\CSharp\WhileDongusu\WhileDongusu\bin\Debug\netcoreapp3.1\WhileDongusu.runtimeconfig.dev.json
+D:\Development\CSharp\WhileDongusu\WhileDongusu\bin\Debug\netcoreapp3.1\WhileDongusu.dll
+D:\Development\CSharp\WhileDongusu\WhileDongusu\bin\Debug\netcoreapp3.1\WhileDongusu.pdb
+D:\Development\CSharp\WhileDongusu\WhileDongusu\obj\Debug\netcoreapp3.1\WhileDongusu.csprojAssemblyReference.cache
+D:\Development\CSharp\WhileDongusu\WhileDongusu\obj\Debug\netcoreapp3.1\WhileDongusu.AssemblyInfoInputs.cache
+D:\Development\CSharp\WhileDongusu\WhileDongusu\obj\Debug\netcoreapp3.1\WhileDongusu.AssemblyInfo.cs
+D:\Development\CSharp\WhileDongusu\WhileDongusu\obj\Debug\netcoreapp3.1\WhileDongusu.dll
+D:\Development\CSharp\WhileDongusu\WhileDongusu\obj\Debug\netcoreapp3.1\WhileDongusu.pdb
