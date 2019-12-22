@@ -1,0 +1,11 @@
+D:\Development\CSharp\IcIceDonguler\IcIceDonguler\bin\Debug\netcoreapp3.1\IcIceDonguler.exe
+D:\Development\CSharp\IcIceDonguler\IcIceDonguler\bin\Debug\netcoreapp3.1\IcIceDonguler.deps.json
+D:\Development\CSharp\IcIceDonguler\IcIceDonguler\bin\Debug\netcoreapp3.1\IcIceDonguler.runtimeconfig.json
+D:\Development\CSharp\IcIceDonguler\IcIceDonguler\bin\Debug\netcoreapp3.1\IcIceDonguler.runtimeconfig.dev.json
+D:\Development\CSharp\IcIceDonguler\IcIceDonguler\bin\Debug\netcoreapp3.1\IcIceDonguler.dll
+D:\Development\CSharp\IcIceDonguler\IcIceDonguler\bin\Debug\netcoreapp3.1\IcIceDonguler.pdb
+D:\Development\CSharp\IcIceDonguler\IcIceDonguler\obj\Debug\netcoreapp3.1\IcIceDonguler.csprojAssemblyReference.cache
+D:\Development\CSharp\IcIceDonguler\IcIceDonguler\obj\Debug\netcoreapp3.1\IcIceDonguler.AssemblyInfoInputs.cache
+D:\Development\CSharp\IcIceDonguler\IcIceDonguler\obj\Debug\netcoreapp3.1\IcIceDonguler.AssemblyInfo.cs
+D:\Development\CSharp\IcIceDonguler\IcIceDonguler\obj\Debug\netcoreapp3.1\IcIceDonguler.dll
+D:\Development\CSharp\IcIceDonguler\IcIceDonguler\obj\Debug\netcoreapp3.1\IcIceDonguler.pdb

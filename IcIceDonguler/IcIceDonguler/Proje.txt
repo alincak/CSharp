@@ -1,0 +1,32 @@
+﻿
+
+
+
+                   * 
+                  * * 
+                 * * * 
+                * * * * 
+               * * * * * 
+              * * * * * * 
+             * * * * * * * 
+            * * * * * * * * 
+           * * * * * * * * * 
+          * * * * * * * * * * 
+         * * * * * * * * * * * 
+        * * * * * * * * * * * * 
+       * * * * * * * * * * * * * 
+      * * * * * * * * * * * * * * 
+     * * * * * * * * * * * * * * * 
+    * * * * * * * * * * * * * * * * 
+   * * * * * * * * * * * * * * * * * 
+  * * * * * * * * * * * * * * * * * * 
+ * * * * * * * * * * * * * * * * * * *
+
+
+ 1 - Donguler kullanarak yukarıdaki görüntüyü elde edin.
+ 2 - Yazılım kurallarına dikkat edin. Örneğin ayrı bir metot yazın bunun için.
+ 3 - Kendinize bir tane "Projelerim" uygun isim verip yeni bir "repository" açın.
+ 4 - Projenizi attığımız gibi sizde GitHub'a atın.
+ 5 - GitHub linkiniz ile projeyi bana mail atabilisiniz.
+
+ Mail adresi: udemykerem@gmail.com
