@@ -1,0 +1,11 @@
+D:\Development\CSharp\ElseIfDeyimi\ElseIfDeyimi\bin\Debug\netcoreapp3.1\ElseIfDeyimi.exe
+D:\Development\CSharp\ElseIfDeyimi\ElseIfDeyimi\bin\Debug\netcoreapp3.1\ElseIfDeyimi.deps.json
+D:\Development\CSharp\ElseIfDeyimi\ElseIfDeyimi\bin\Debug\netcoreapp3.1\ElseIfDeyimi.runtimeconfig.json
+D:\Development\CSharp\ElseIfDeyimi\ElseIfDeyimi\bin\Debug\netcoreapp3.1\ElseIfDeyimi.runtimeconfig.dev.json
+D:\Development\CSharp\ElseIfDeyimi\ElseIfDeyimi\bin\Debug\netcoreapp3.1\ElseIfDeyimi.dll
+D:\Development\CSharp\ElseIfDeyimi\ElseIfDeyimi\bin\Debug\netcoreapp3.1\ElseIfDeyimi.pdb
+D:\Development\CSharp\ElseIfDeyimi\ElseIfDeyimi\obj\Debug\netcoreapp3.1\ElseIfDeyimi.csprojAssemblyReference.cache
+D:\Development\CSharp\ElseIfDeyimi\ElseIfDeyimi\obj\Debug\netcoreapp3.1\ElseIfDeyimi.AssemblyInfoInputs.cache
+D:\Development\CSharp\ElseIfDeyimi\ElseIfDeyimi\obj\Debug\netcoreapp3.1\ElseIfDeyimi.AssemblyInfo.cs
+D:\Development\CSharp\ElseIfDeyimi\ElseIfDeyimi\obj\Debug\netcoreapp3.1\ElseIfDeyimi.dll
+D:\Development\CSharp\ElseIfDeyimi\ElseIfDeyimi\obj\Debug\netcoreapp3.1\ElseIfDeyimi.pdb
