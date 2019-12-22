@@ -1,0 +1,11 @@
+D:\Development\CSharp\IfDeyimi\IfDeyimi\bin\Debug\netcoreapp3.1\IfDeyimi.exe
+D:\Development\CSharp\IfDeyimi\IfDeyimi\bin\Debug\netcoreapp3.1\IfDeyimi.deps.json
+D:\Development\CSharp\IfDeyimi\IfDeyimi\bin\Debug\netcoreapp3.1\IfDeyimi.runtimeconfig.json
+D:\Development\CSharp\IfDeyimi\IfDeyimi\bin\Debug\netcoreapp3.1\IfDeyimi.runtimeconfig.dev.json
+D:\Development\CSharp\IfDeyimi\IfDeyimi\bin\Debug\netcoreapp3.1\IfDeyimi.dll
+D:\Development\CSharp\IfDeyimi\IfDeyimi\bin\Debug\netcoreapp3.1\IfDeyimi.pdb
+D:\Development\CSharp\IfDeyimi\IfDeyimi\obj\Debug\netcoreapp3.1\IfDeyimi.csprojAssemblyReference.cache
+D:\Development\CSharp\IfDeyimi\IfDeyimi\obj\Debug\netcoreapp3.1\IfDeyimi.AssemblyInfoInputs.cache
+D:\Development\CSharp\IfDeyimi\IfDeyimi\obj\Debug\netcoreapp3.1\IfDeyimi.AssemblyInfo.cs
+D:\Development\CSharp\IfDeyimi\IfDeyimi\obj\Debug\netcoreapp3.1\IfDeyimi.dll
+D:\Development\CSharp\IfDeyimi\IfDeyimi\obj\Debug\netcoreapp3.1\IfDeyimi.pdb

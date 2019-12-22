@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "IfDeyimi/1.0.0": {
+        "runtime": {
+          "IfDeyimi.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "IfDeyimi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
