@@ -1,0 +1,11 @@
+D:\Development\CSharp\BreakDeyimi\BreakDeyimi\bin\Debug\netcoreapp3.1\BreakDeyimi.exe
+D:\Development\CSharp\BreakDeyimi\BreakDeyimi\bin\Debug\netcoreapp3.1\BreakDeyimi.deps.json
+D:\Development\CSharp\BreakDeyimi\BreakDeyimi\bin\Debug\netcoreapp3.1\BreakDeyimi.runtimeconfig.json
+D:\Development\CSharp\BreakDeyimi\BreakDeyimi\bin\Debug\netcoreapp3.1\BreakDeyimi.runtimeconfig.dev.json
+D:\Development\CSharp\BreakDeyimi\BreakDeyimi\bin\Debug\netcoreapp3.1\BreakDeyimi.dll
+D:\Development\CSharp\BreakDeyimi\BreakDeyimi\bin\Debug\netcoreapp3.1\BreakDeyimi.pdb
+D:\Development\CSharp\BreakDeyimi\BreakDeyimi\obj\Debug\netcoreapp3.1\BreakDeyimi.csprojAssemblyReference.cache
+D:\Development\CSharp\BreakDeyimi\BreakDeyimi\obj\Debug\netcoreapp3.1\BreakDeyimi.AssemblyInfoInputs.cache
+D:\Development\CSharp\BreakDeyimi\BreakDeyimi\obj\Debug\netcoreapp3.1\BreakDeyimi.AssemblyInfo.cs
+D:\Development\CSharp\BreakDeyimi\BreakDeyimi\obj\Debug\netcoreapp3.1\BreakDeyimi.dll
+D:\Development\CSharp\BreakDeyimi\BreakDeyimi\obj\Debug\netcoreapp3.1\BreakDeyimi.pdb
