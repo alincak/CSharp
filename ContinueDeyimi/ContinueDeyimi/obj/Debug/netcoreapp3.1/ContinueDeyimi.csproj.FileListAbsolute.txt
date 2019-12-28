@@ -1,0 +1,11 @@
+D:\Development\CSharp\ContinueDeyimi\ContinueDeyimi\bin\Debug\netcoreapp3.1\ContinueDeyimi.exe
+D:\Development\CSharp\ContinueDeyimi\ContinueDeyimi\bin\Debug\netcoreapp3.1\ContinueDeyimi.deps.json
+D:\Development\CSharp\ContinueDeyimi\ContinueDeyimi\bin\Debug\netcoreapp3.1\ContinueDeyimi.runtimeconfig.json
+D:\Development\CSharp\ContinueDeyimi\ContinueDeyimi\bin\Debug\netcoreapp3.1\ContinueDeyimi.runtimeconfig.dev.json
+D:\Development\CSharp\ContinueDeyimi\ContinueDeyimi\bin\Debug\netcoreapp3.1\ContinueDeyimi.dll
+D:\Development\CSharp\ContinueDeyimi\ContinueDeyimi\bin\Debug\netcoreapp3.1\ContinueDeyimi.pdb
+D:\Development\CSharp\ContinueDeyimi\ContinueDeyimi\obj\Debug\netcoreapp3.1\ContinueDeyimi.csprojAssemblyReference.cache
+D:\Development\CSharp\ContinueDeyimi\ContinueDeyimi\obj\Debug\netcoreapp3.1\ContinueDeyimi.AssemblyInfoInputs.cache
+D:\Development\CSharp\ContinueDeyimi\ContinueDeyimi\obj\Debug\netcoreapp3.1\ContinueDeyimi.AssemblyInfo.cs
+D:\Development\CSharp\ContinueDeyimi\ContinueDeyimi\obj\Debug\netcoreapp3.1\ContinueDeyimi.dll
+D:\Development\CSharp\ContinueDeyimi\ContinueDeyimi\obj\Debug\netcoreapp3.1\ContinueDeyimi.pdb
