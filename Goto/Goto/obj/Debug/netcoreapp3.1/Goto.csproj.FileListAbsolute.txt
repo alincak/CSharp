@@ -1,0 +1,11 @@
+D:\Development\CSharp\Goto\Goto\bin\Debug\netcoreapp3.1\Goto.exe
+D:\Development\CSharp\Goto\Goto\bin\Debug\netcoreapp3.1\Goto.deps.json
+D:\Development\CSharp\Goto\Goto\bin\Debug\netcoreapp3.1\Goto.runtimeconfig.json
+D:\Development\CSharp\Goto\Goto\bin\Debug\netcoreapp3.1\Goto.runtimeconfig.dev.json
+D:\Development\CSharp\Goto\Goto\bin\Debug\netcoreapp3.1\Goto.dll
+D:\Development\CSharp\Goto\Goto\bin\Debug\netcoreapp3.1\Goto.pdb
+D:\Development\CSharp\Goto\Goto\obj\Debug\netcoreapp3.1\Goto.csprojAssemblyReference.cache
+D:\Development\CSharp\Goto\Goto\obj\Debug\netcoreapp3.1\Goto.AssemblyInfoInputs.cache
+D:\Development\CSharp\Goto\Goto\obj\Debug\netcoreapp3.1\Goto.AssemblyInfo.cs
+D:\Development\CSharp\Goto\Goto\obj\Debug\netcoreapp3.1\Goto.dll
+D:\Development\CSharp\Goto\Goto\obj\Debug\netcoreapp3.1\Goto.pdb
