@@ -1,0 +1,12 @@
+﻿Gün
+Ay
+Yıl 
+
+diye üç tane değer istensin. Örneğin: Günü girin.
+
+Örnek girdi:
+gün: 12
+ay: 1
+yıl: 2019
+
+Çıktı: 12 - Ocak - 2019

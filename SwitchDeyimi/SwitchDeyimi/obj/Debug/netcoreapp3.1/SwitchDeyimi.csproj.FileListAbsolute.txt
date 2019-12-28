@@ -1,0 +1,11 @@
+D:\Development\CSharp\SwitchDeyimi\SwitchDeyimi\bin\Debug\netcoreapp3.1\SwitchDeyimi.exe
+D:\Development\CSharp\SwitchDeyimi\SwitchDeyimi\bin\Debug\netcoreapp3.1\SwitchDeyimi.deps.json
+D:\Development\CSharp\SwitchDeyimi\SwitchDeyimi\bin\Debug\netcoreapp3.1\SwitchDeyimi.runtimeconfig.json
+D:\Development\CSharp\SwitchDeyimi\SwitchDeyimi\bin\Debug\netcoreapp3.1\SwitchDeyimi.runtimeconfig.dev.json
+D:\Development\CSharp\SwitchDeyimi\SwitchDeyimi\bin\Debug\netcoreapp3.1\SwitchDeyimi.dll
+D:\Development\CSharp\SwitchDeyimi\SwitchDeyimi\bin\Debug\netcoreapp3.1\SwitchDeyimi.pdb
+D:\Development\CSharp\SwitchDeyimi\SwitchDeyimi\obj\Debug\netcoreapp3.1\SwitchDeyimi.csprojAssemblyReference.cache
+D:\Development\CSharp\SwitchDeyimi\SwitchDeyimi\obj\Debug\netcoreapp3.1\SwitchDeyimi.AssemblyInfoInputs.cache
+D:\Development\CSharp\SwitchDeyimi\SwitchDeyimi\obj\Debug\netcoreapp3.1\SwitchDeyimi.AssemblyInfo.cs
+D:\Development\CSharp\SwitchDeyimi\SwitchDeyimi\obj\Debug\netcoreapp3.1\SwitchDeyimi.dll
+D:\Development\CSharp\SwitchDeyimi\SwitchDeyimi\obj\Debug\netcoreapp3.1\SwitchDeyimi.pdb
