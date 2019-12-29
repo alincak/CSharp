@@ -1,0 +1,11 @@
+D:\Development\CSharp\ValueReferenceTypes\ValueReferenceTypes\bin\Debug\netcoreapp3.1\ValueReferenceTypes.exe
+D:\Development\CSharp\ValueReferenceTypes\ValueReferenceTypes\bin\Debug\netcoreapp3.1\ValueReferenceTypes.deps.json
+D:\Development\CSharp\ValueReferenceTypes\ValueReferenceTypes\bin\Debug\netcoreapp3.1\ValueReferenceTypes.runtimeconfig.json
+D:\Development\CSharp\ValueReferenceTypes\ValueReferenceTypes\bin\Debug\netcoreapp3.1\ValueReferenceTypes.runtimeconfig.dev.json
+D:\Development\CSharp\ValueReferenceTypes\ValueReferenceTypes\bin\Debug\netcoreapp3.1\ValueReferenceTypes.dll
+D:\Development\CSharp\ValueReferenceTypes\ValueReferenceTypes\bin\Debug\netcoreapp3.1\ValueReferenceTypes.pdb
+D:\Development\CSharp\ValueReferenceTypes\ValueReferenceTypes\obj\Debug\netcoreapp3.1\ValueReferenceTypes.csprojAssemblyReference.cache
+D:\Development\CSharp\ValueReferenceTypes\ValueReferenceTypes\obj\Debug\netcoreapp3.1\ValueReferenceTypes.AssemblyInfoInputs.cache
+D:\Development\CSharp\ValueReferenceTypes\ValueReferenceTypes\obj\Debug\netcoreapp3.1\ValueReferenceTypes.AssemblyInfo.cs
+D:\Development\CSharp\ValueReferenceTypes\ValueReferenceTypes\obj\Debug\netcoreapp3.1\ValueReferenceTypes.dll
+D:\Development\CSharp\ValueReferenceTypes\ValueReferenceTypes\obj\Debug\netcoreapp3.1\ValueReferenceTypes.pdb
