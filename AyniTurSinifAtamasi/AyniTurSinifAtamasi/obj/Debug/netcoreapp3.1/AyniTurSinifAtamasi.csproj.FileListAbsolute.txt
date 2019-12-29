@@ -1,0 +1,11 @@
+D:\Development\CSharp\AyniTurSinifAtamasi\AyniTurSinifAtamasi\bin\Debug\netcoreapp3.1\AyniTurSinifAtamasi.exe
+D:\Development\CSharp\AyniTurSinifAtamasi\AyniTurSinifAtamasi\bin\Debug\netcoreapp3.1\AyniTurSinifAtamasi.deps.json
+D:\Development\CSharp\AyniTurSinifAtamasi\AyniTurSinifAtamasi\bin\Debug\netcoreapp3.1\AyniTurSinifAtamasi.runtimeconfig.json
+D:\Development\CSharp\AyniTurSinifAtamasi\AyniTurSinifAtamasi\bin\Debug\netcoreapp3.1\AyniTurSinifAtamasi.runtimeconfig.dev.json
+D:\Development\CSharp\AyniTurSinifAtamasi\AyniTurSinifAtamasi\bin\Debug\netcoreapp3.1\AyniTurSinifAtamasi.dll
+D:\Development\CSharp\AyniTurSinifAtamasi\AyniTurSinifAtamasi\bin\Debug\netcoreapp3.1\AyniTurSinifAtamasi.pdb
+D:\Development\CSharp\AyniTurSinifAtamasi\AyniTurSinifAtamasi\obj\Debug\netcoreapp3.1\AyniTurSinifAtamasi.csprojAssemblyReference.cache
+D:\Development\CSharp\AyniTurSinifAtamasi\AyniTurSinifAtamasi\obj\Debug\netcoreapp3.1\AyniTurSinifAtamasi.AssemblyInfoInputs.cache
+D:\Development\CSharp\AyniTurSinifAtamasi\AyniTurSinifAtamasi\obj\Debug\netcoreapp3.1\AyniTurSinifAtamasi.AssemblyInfo.cs
+D:\Development\CSharp\AyniTurSinifAtamasi\AyniTurSinifAtamasi\obj\Debug\netcoreapp3.1\AyniTurSinifAtamasi.dll
+D:\Development\CSharp\AyniTurSinifAtamasi\AyniTurSinifAtamasi\obj\Debug\netcoreapp3.1\AyniTurSinifAtamasi.pdb
