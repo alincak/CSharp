@@ -1,0 +1,11 @@
+D:\Development\CSharp\StaticVeriElemanlari\StaticVeriElemanlari\bin\Debug\netcoreapp3.1\StaticVeriElemanlari.exe
+D:\Development\CSharp\StaticVeriElemanlari\StaticVeriElemanlari\bin\Debug\netcoreapp3.1\StaticVeriElemanlari.deps.json
+D:\Development\CSharp\StaticVeriElemanlari\StaticVeriElemanlari\bin\Debug\netcoreapp3.1\StaticVeriElemanlari.runtimeconfig.json
+D:\Development\CSharp\StaticVeriElemanlari\StaticVeriElemanlari\bin\Debug\netcoreapp3.1\StaticVeriElemanlari.runtimeconfig.dev.json
+D:\Development\CSharp\StaticVeriElemanlari\StaticVeriElemanlari\bin\Debug\netcoreapp3.1\StaticVeriElemanlari.dll
+D:\Development\CSharp\StaticVeriElemanlari\StaticVeriElemanlari\bin\Debug\netcoreapp3.1\StaticVeriElemanlari.pdb
+D:\Development\CSharp\StaticVeriElemanlari\StaticVeriElemanlari\obj\Debug\netcoreapp3.1\StaticVeriElemanlari.csprojAssemblyReference.cache
+D:\Development\CSharp\StaticVeriElemanlari\StaticVeriElemanlari\obj\Debug\netcoreapp3.1\StaticVeriElemanlari.AssemblyInfoInputs.cache
+D:\Development\CSharp\StaticVeriElemanlari\StaticVeriElemanlari\obj\Debug\netcoreapp3.1\StaticVeriElemanlari.AssemblyInfo.cs
+D:\Development\CSharp\StaticVeriElemanlari\StaticVeriElemanlari\obj\Debug\netcoreapp3.1\StaticVeriElemanlari.dll
+D:\Development\CSharp\StaticVeriElemanlari\StaticVeriElemanlari\obj\Debug\netcoreapp3.1\StaticVeriElemanlari.pdb
