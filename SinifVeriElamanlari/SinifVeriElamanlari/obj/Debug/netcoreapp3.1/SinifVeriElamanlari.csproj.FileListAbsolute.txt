@@ -1,0 +1,11 @@
+D:\Development\CSharp\SinifVeriElamanlari\SinifVeriElamanlari\bin\Debug\netcoreapp3.1\SinifVeriElamanlari.exe
+D:\Development\CSharp\SinifVeriElamanlari\SinifVeriElamanlari\bin\Debug\netcoreapp3.1\SinifVeriElamanlari.deps.json
+D:\Development\CSharp\SinifVeriElamanlari\SinifVeriElamanlari\bin\Debug\netcoreapp3.1\SinifVeriElamanlari.runtimeconfig.json
+D:\Development\CSharp\SinifVeriElamanlari\SinifVeriElamanlari\bin\Debug\netcoreapp3.1\SinifVeriElamanlari.runtimeconfig.dev.json
+D:\Development\CSharp\SinifVeriElamanlari\SinifVeriElamanlari\bin\Debug\netcoreapp3.1\SinifVeriElamanlari.dll
+D:\Development\CSharp\SinifVeriElamanlari\SinifVeriElamanlari\bin\Debug\netcoreapp3.1\SinifVeriElamanlari.pdb
+D:\Development\CSharp\SinifVeriElamanlari\SinifVeriElamanlari\obj\Debug\netcoreapp3.1\SinifVeriElamanlari.csprojAssemblyReference.cache
+D:\Development\CSharp\SinifVeriElamanlari\SinifVeriElamanlari\obj\Debug\netcoreapp3.1\SinifVeriElamanlari.AssemblyInfoInputs.cache
+D:\Development\CSharp\SinifVeriElamanlari\SinifVeriElamanlari\obj\Debug\netcoreapp3.1\SinifVeriElamanlari.AssemblyInfo.cs
+D:\Development\CSharp\SinifVeriElamanlari\SinifVeriElamanlari\obj\Debug\netcoreapp3.1\SinifVeriElamanlari.dll
+D:\Development\CSharp\SinifVeriElamanlari\SinifVeriElamanlari\obj\Debug\netcoreapp3.1\SinifVeriElamanlari.pdb
