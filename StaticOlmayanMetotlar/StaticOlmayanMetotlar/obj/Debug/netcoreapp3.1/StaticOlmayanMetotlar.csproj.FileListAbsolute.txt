@@ -1,0 +1,11 @@
+D:\Development\CSharp\StaticOlmayanMetotlar\StaticOlmayanMetotlar\bin\Debug\netcoreapp3.1\StaticOlmayanMetotlar.exe
+D:\Development\CSharp\StaticOlmayanMetotlar\StaticOlmayanMetotlar\bin\Debug\netcoreapp3.1\StaticOlmayanMetotlar.deps.json
+D:\Development\CSharp\StaticOlmayanMetotlar\StaticOlmayanMetotlar\bin\Debug\netcoreapp3.1\StaticOlmayanMetotlar.runtimeconfig.json
+D:\Development\CSharp\StaticOlmayanMetotlar\StaticOlmayanMetotlar\bin\Debug\netcoreapp3.1\StaticOlmayanMetotlar.runtimeconfig.dev.json
+D:\Development\CSharp\StaticOlmayanMetotlar\StaticOlmayanMetotlar\bin\Debug\netcoreapp3.1\StaticOlmayanMetotlar.dll
+D:\Development\CSharp\StaticOlmayanMetotlar\StaticOlmayanMetotlar\bin\Debug\netcoreapp3.1\StaticOlmayanMetotlar.pdb
+D:\Development\CSharp\StaticOlmayanMetotlar\StaticOlmayanMetotlar\obj\Debug\netcoreapp3.1\StaticOlmayanMetotlar.csprojAssemblyReference.cache
+D:\Development\CSharp\StaticOlmayanMetotlar\StaticOlmayanMetotlar\obj\Debug\netcoreapp3.1\StaticOlmayanMetotlar.AssemblyInfoInputs.cache
+D:\Development\CSharp\StaticOlmayanMetotlar\StaticOlmayanMetotlar\obj\Debug\netcoreapp3.1\StaticOlmayanMetotlar.AssemblyInfo.cs
+D:\Development\CSharp\StaticOlmayanMetotlar\StaticOlmayanMetotlar\obj\Debug\netcoreapp3.1\StaticOlmayanMetotlar.dll
+D:\Development\CSharp\StaticOlmayanMetotlar\StaticOlmayanMetotlar\obj\Debug\netcoreapp3.1\StaticOlmayanMetotlar.pdb
