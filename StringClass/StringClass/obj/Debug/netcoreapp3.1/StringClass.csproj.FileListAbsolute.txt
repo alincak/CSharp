@@ -1,0 +1,11 @@
+D:\Development\CSharp\StringClass\StringClass\bin\Debug\netcoreapp3.1\StringClass.exe
+D:\Development\CSharp\StringClass\StringClass\bin\Debug\netcoreapp3.1\StringClass.deps.json
+D:\Development\CSharp\StringClass\StringClass\bin\Debug\netcoreapp3.1\StringClass.runtimeconfig.json
+D:\Development\CSharp\StringClass\StringClass\bin\Debug\netcoreapp3.1\StringClass.runtimeconfig.dev.json
+D:\Development\CSharp\StringClass\StringClass\bin\Debug\netcoreapp3.1\StringClass.dll
+D:\Development\CSharp\StringClass\StringClass\bin\Debug\netcoreapp3.1\StringClass.pdb
+D:\Development\CSharp\StringClass\StringClass\obj\Debug\netcoreapp3.1\StringClass.csprojAssemblyReference.cache
+D:\Development\CSharp\StringClass\StringClass\obj\Debug\netcoreapp3.1\StringClass.AssemblyInfoInputs.cache
+D:\Development\CSharp\StringClass\StringClass\obj\Debug\netcoreapp3.1\StringClass.AssemblyInfo.cs
+D:\Development\CSharp\StringClass\StringClass\obj\Debug\netcoreapp3.1\StringClass.dll
+D:\Development\CSharp\StringClass\StringClass\obj\Debug\netcoreapp3.1\StringClass.pdb

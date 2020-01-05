@@ -1,0 +1,19 @@
+﻿
+Dize, metni temsil etmek için kullanılan ardışık bir karakter koleksiyonudur.
+String nesnesi, bir dizeyi temsil eden System.
+Char nesnelerden oluşan sıralı bir koleksiyondur.
+Bellekteki String nesnesinin en büyük boyutu 2 GB veya yaklaşık 1.000.000.000 karakterdir.
+
+Madde: Yukarıdaki metnin içerisinde geçen karakterlerin sayılarını ve en çok bulunan karakteri veren programı yazın.
+
+Yapılacaklar:
+*Bunun için bir sınıf yazılacak.
+*Bu sınıf oluşturulduğunda yukarıdaki metni verin.
+*Karakter sayısının listesini ve en çok bulunan karakteri veren iki fonksiyon yazılsın.
+*Boşlular dahil edilmeyecek.
+
+*Bu listeyi bir string içinde tutun. 
+"Örneğin: a:5,b:8,c:1," bu listeyi böyle tuttunuz. Sonra a geldi. Burada a'yı bulup sayısını alıp bir ekleyip tekrar yerine yazın.
+
+Not: Bu egzersiz kod yazmanıza, düşünmenize ve sorunları çözmenize yardımcı olacaktır. Pratik ve hızlı çözüm alıştırması.
+Not2: Böyle bir problemin çözümü dizi veya listeler ile olur. Program tamamen egzersiz içindir.
