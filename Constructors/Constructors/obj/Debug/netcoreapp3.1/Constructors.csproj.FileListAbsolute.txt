@@ -1,0 +1,11 @@
+D:\Development\CSharp\Constructors\Constructors\bin\Debug\netcoreapp3.1\Constructors.exe
+D:\Development\CSharp\Constructors\Constructors\bin\Debug\netcoreapp3.1\Constructors.deps.json
+D:\Development\CSharp\Constructors\Constructors\bin\Debug\netcoreapp3.1\Constructors.runtimeconfig.json
+D:\Development\CSharp\Constructors\Constructors\bin\Debug\netcoreapp3.1\Constructors.runtimeconfig.dev.json
+D:\Development\CSharp\Constructors\Constructors\bin\Debug\netcoreapp3.1\Constructors.dll
+D:\Development\CSharp\Constructors\Constructors\bin\Debug\netcoreapp3.1\Constructors.pdb
+D:\Development\CSharp\Constructors\Constructors\obj\Debug\netcoreapp3.1\Constructors.csprojAssemblyReference.cache
+D:\Development\CSharp\Constructors\Constructors\obj\Debug\netcoreapp3.1\Constructors.AssemblyInfoInputs.cache
+D:\Development\CSharp\Constructors\Constructors\obj\Debug\netcoreapp3.1\Constructors.AssemblyInfo.cs
+D:\Development\CSharp\Constructors\Constructors\obj\Debug\netcoreapp3.1\Constructors.dll
+D:\Development\CSharp\Constructors\Constructors\obj\Debug\netcoreapp3.1\Constructors.pdb
