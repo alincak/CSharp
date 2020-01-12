@@ -1,0 +1,11 @@
+D:\Development\CSharp\Structures\Structures\bin\Debug\netcoreapp3.1\Structures.exe
+D:\Development\CSharp\Structures\Structures\bin\Debug\netcoreapp3.1\Structures.deps.json
+D:\Development\CSharp\Structures\Structures\bin\Debug\netcoreapp3.1\Structures.runtimeconfig.json
+D:\Development\CSharp\Structures\Structures\bin\Debug\netcoreapp3.1\Structures.runtimeconfig.dev.json
+D:\Development\CSharp\Structures\Structures\bin\Debug\netcoreapp3.1\Structures.dll
+D:\Development\CSharp\Structures\Structures\bin\Debug\netcoreapp3.1\Structures.pdb
+D:\Development\CSharp\Structures\Structures\obj\Debug\netcoreapp3.1\Structures.csprojAssemblyReference.cache
+D:\Development\CSharp\Structures\Structures\obj\Debug\netcoreapp3.1\Structures.AssemblyInfoInputs.cache
+D:\Development\CSharp\Structures\Structures\obj\Debug\netcoreapp3.1\Structures.AssemblyInfo.cs
+D:\Development\CSharp\Structures\Structures\obj\Debug\netcoreapp3.1\Structures.dll
+D:\Development\CSharp\Structures\Structures\obj\Debug\netcoreapp3.1\Structures.pdb
