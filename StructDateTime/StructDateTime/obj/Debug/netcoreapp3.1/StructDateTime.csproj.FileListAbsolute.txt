@@ -1,0 +1,11 @@
+D:\Development\CSharp\StructDateTime\StructDateTime\bin\Debug\netcoreapp3.1\StructDateTime.exe
+D:\Development\CSharp\StructDateTime\StructDateTime\bin\Debug\netcoreapp3.1\StructDateTime.deps.json
+D:\Development\CSharp\StructDateTime\StructDateTime\bin\Debug\netcoreapp3.1\StructDateTime.runtimeconfig.json
+D:\Development\CSharp\StructDateTime\StructDateTime\bin\Debug\netcoreapp3.1\StructDateTime.runtimeconfig.dev.json
+D:\Development\CSharp\StructDateTime\StructDateTime\bin\Debug\netcoreapp3.1\StructDateTime.dll
+D:\Development\CSharp\StructDateTime\StructDateTime\bin\Debug\netcoreapp3.1\StructDateTime.pdb
+D:\Development\CSharp\StructDateTime\StructDateTime\obj\Debug\netcoreapp3.1\StructDateTime.csprojAssemblyReference.cache
+D:\Development\CSharp\StructDateTime\StructDateTime\obj\Debug\netcoreapp3.1\StructDateTime.AssemblyInfoInputs.cache
+D:\Development\CSharp\StructDateTime\StructDateTime\obj\Debug\netcoreapp3.1\StructDateTime.AssemblyInfo.cs
+D:\Development\CSharp\StructDateTime\StructDateTime\obj\Debug\netcoreapp3.1\StructDateTime.dll
+D:\Development\CSharp\StructDateTime\StructDateTime\obj\Debug\netcoreapp3.1\StructDateTime.pdb
