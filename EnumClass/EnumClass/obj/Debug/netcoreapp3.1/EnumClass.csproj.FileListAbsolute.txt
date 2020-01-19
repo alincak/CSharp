@@ -1,0 +1,11 @@
+D:\Development\CSharp\EnumClass\EnumClass\bin\Debug\netcoreapp3.1\EnumClass.exe
+D:\Development\CSharp\EnumClass\EnumClass\bin\Debug\netcoreapp3.1\EnumClass.deps.json
+D:\Development\CSharp\EnumClass\EnumClass\bin\Debug\netcoreapp3.1\EnumClass.runtimeconfig.json
+D:\Development\CSharp\EnumClass\EnumClass\bin\Debug\netcoreapp3.1\EnumClass.runtimeconfig.dev.json
+D:\Development\CSharp\EnumClass\EnumClass\bin\Debug\netcoreapp3.1\EnumClass.dll
+D:\Development\CSharp\EnumClass\EnumClass\bin\Debug\netcoreapp3.1\EnumClass.pdb
+D:\Development\CSharp\EnumClass\EnumClass\obj\Debug\netcoreapp3.1\EnumClass.csprojAssemblyReference.cache
+D:\Development\CSharp\EnumClass\EnumClass\obj\Debug\netcoreapp3.1\EnumClass.AssemblyInfoInputs.cache
+D:\Development\CSharp\EnumClass\EnumClass\obj\Debug\netcoreapp3.1\EnumClass.AssemblyInfo.cs
+D:\Development\CSharp\EnumClass\EnumClass\obj\Debug\netcoreapp3.1\EnumClass.dll
+D:\Development\CSharp\EnumClass\EnumClass\obj\Debug\netcoreapp3.1\EnumClass.pdb
