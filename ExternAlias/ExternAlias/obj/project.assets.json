@@ -1,0 +1,111 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "DLL1/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/DLL1.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DLL1.dll": {}
+        }
+      },
+      "DLL2/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/DLL2.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DLL2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DLL1/1.0.0": {
+      "type": "project",
+      "path": "../DLL1/DLL1.csproj",
+      "msbuildProject": "../DLL1/DLL1.csproj"
+    },
+    "DLL2/1.0.0": {
+      "type": "project",
+      "path": "../DLL2/DLL2.csproj",
+      "msbuildProject": "../DLL2/DLL2.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "DLL1 >= 1.0.0",
+      "DLL2 >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\home\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\Development\\CSharp\\ExternAlias\\ExternAlias\\ExternAlias.csproj",
+      "projectName": "ExternAlias",
+      "projectPath": "D:\\Development\\CSharp\\ExternAlias\\ExternAlias\\ExternAlias.csproj",
+      "packagesPath": "C:\\Users\\home\\.nuget\\packages\\",
+      "outputPath": "D:\\Development\\CSharp\\ExternAlias\\ExternAlias\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\home\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {
+            "D:\\Development\\CSharp\\ExternAlias\\DLL1\\DLL1.csproj": {
+              "projectPath": "D:\\Development\\CSharp\\ExternAlias\\DLL1\\DLL1.csproj"
+            },
+            "D:\\Development\\CSharp\\ExternAlias\\DLL2\\DLL2.csproj": {
+              "projectPath": "D:\\Development\\CSharp\\ExternAlias\\DLL2\\DLL2.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

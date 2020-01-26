@@ -1,0 +1,16 @@
+D:\Development\CSharp\ExternAlias\ExternAlias\bin\Debug\netcoreapp3.1\ExternAlias.exe
+D:\Development\CSharp\ExternAlias\ExternAlias\bin\Debug\netcoreapp3.1\ExternAlias.deps.json
+D:\Development\CSharp\ExternAlias\ExternAlias\bin\Debug\netcoreapp3.1\ExternAlias.runtimeconfig.json
+D:\Development\CSharp\ExternAlias\ExternAlias\bin\Debug\netcoreapp3.1\ExternAlias.runtimeconfig.dev.json
+D:\Development\CSharp\ExternAlias\ExternAlias\bin\Debug\netcoreapp3.1\ExternAlias.dll
+D:\Development\CSharp\ExternAlias\ExternAlias\bin\Debug\netcoreapp3.1\ExternAlias.pdb
+D:\Development\CSharp\ExternAlias\ExternAlias\obj\Debug\netcoreapp3.1\ExternAlias.csprojAssemblyReference.cache
+D:\Development\CSharp\ExternAlias\ExternAlias\obj\Debug\netcoreapp3.1\ExternAlias.AssemblyInfoInputs.cache
+D:\Development\CSharp\ExternAlias\ExternAlias\obj\Debug\netcoreapp3.1\ExternAlias.AssemblyInfo.cs
+D:\Development\CSharp\ExternAlias\ExternAlias\obj\Debug\netcoreapp3.1\ExternAlias.dll
+D:\Development\CSharp\ExternAlias\ExternAlias\obj\Debug\netcoreapp3.1\ExternAlias.pdb
+D:\Development\CSharp\ExternAlias\ExternAlias\bin\Debug\netcoreapp3.1\DLL1.dll
+D:\Development\CSharp\ExternAlias\ExternAlias\bin\Debug\netcoreapp3.1\DLL2.dll
+D:\Development\CSharp\ExternAlias\ExternAlias\bin\Debug\netcoreapp3.1\DLL1.pdb
+D:\Development\CSharp\ExternAlias\ExternAlias\bin\Debug\netcoreapp3.1\DLL2.pdb
+D:\Development\CSharp\ExternAlias\ExternAlias\obj\Debug\netcoreapp3.1\ExternAlias.csproj.CopyComplete

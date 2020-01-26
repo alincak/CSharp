@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ExternAlias/1.0.0": {
+        "dependencies": {
+          "DLL1": "1.0.0",
+          "DLL2": "1.0.0"
+        },
+        "runtime": {
+          "ExternAlias.dll": {}
+        }
+      },
+      "DLL1/1.0.0": {
+        "runtime": {
+          "DLL1.dll": {}
+        }
+      },
+      "DLL2/1.0.0": {
+        "runtime": {
+          "DLL2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExternAlias/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DLL1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DLL2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

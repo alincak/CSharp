@@ -1,0 +1,8 @@
+D:\Development\CSharp\ExternAlias\DLL1\bin\Debug\netstandard2.0\DLL1.deps.json
+D:\Development\CSharp\ExternAlias\DLL1\bin\Debug\netstandard2.0\DLL1.dll
+D:\Development\CSharp\ExternAlias\DLL1\bin\Debug\netstandard2.0\DLL1.pdb
+D:\Development\CSharp\ExternAlias\DLL1\obj\Debug\netstandard2.0\DLL1.csprojAssemblyReference.cache
+D:\Development\CSharp\ExternAlias\DLL1\obj\Debug\netstandard2.0\DLL1.AssemblyInfoInputs.cache
+D:\Development\CSharp\ExternAlias\DLL1\obj\Debug\netstandard2.0\DLL1.AssemblyInfo.cs
+D:\Development\CSharp\ExternAlias\DLL1\obj\Debug\netstandard2.0\DLL1.dll
+D:\Development\CSharp\ExternAlias\DLL1\obj\Debug\netstandard2.0\DLL1.pdb
