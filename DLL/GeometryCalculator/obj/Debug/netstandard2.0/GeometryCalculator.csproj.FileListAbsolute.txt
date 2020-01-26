@@ -1,0 +1,8 @@
+D:\Development\CSharp\DLL\GeometryCalculator\bin\Debug\netstandard2.0\GeometryCalculator.deps.json
+D:\Development\CSharp\DLL\GeometryCalculator\bin\Debug\netstandard2.0\GeometryCalculator.dll
+D:\Development\CSharp\DLL\GeometryCalculator\bin\Debug\netstandard2.0\GeometryCalculator.pdb
+D:\Development\CSharp\DLL\GeometryCalculator\obj\Debug\netstandard2.0\GeometryCalculator.csprojAssemblyReference.cache
+D:\Development\CSharp\DLL\GeometryCalculator\obj\Debug\netstandard2.0\GeometryCalculator.AssemblyInfoInputs.cache
+D:\Development\CSharp\DLL\GeometryCalculator\obj\Debug\netstandard2.0\GeometryCalculator.AssemblyInfo.cs
+D:\Development\CSharp\DLL\GeometryCalculator\obj\Debug\netstandard2.0\GeometryCalculator.dll
+D:\Development\CSharp\DLL\GeometryCalculator\obj\Debug\netstandard2.0\GeometryCalculator.pdb

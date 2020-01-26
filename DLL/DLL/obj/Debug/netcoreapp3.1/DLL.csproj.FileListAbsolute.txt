@@ -1,0 +1,14 @@
+D:\Development\CSharp\DLL\DLL\bin\Debug\netcoreapp3.1\DLL.exe
+D:\Development\CSharp\DLL\DLL\bin\Debug\netcoreapp3.1\DLL.deps.json
+D:\Development\CSharp\DLL\DLL\bin\Debug\netcoreapp3.1\DLL.runtimeconfig.json
+D:\Development\CSharp\DLL\DLL\bin\Debug\netcoreapp3.1\DLL.runtimeconfig.dev.json
+D:\Development\CSharp\DLL\DLL\bin\Debug\netcoreapp3.1\DLL.dll
+D:\Development\CSharp\DLL\DLL\bin\Debug\netcoreapp3.1\DLL.pdb
+D:\Development\CSharp\DLL\DLL\bin\Debug\netcoreapp3.1\GeometryCalculator.dll
+D:\Development\CSharp\DLL\DLL\bin\Debug\netcoreapp3.1\GeometryCalculator.pdb
+D:\Development\CSharp\DLL\DLL\obj\Debug\netcoreapp3.1\DLL.csprojAssemblyReference.cache
+D:\Development\CSharp\DLL\DLL\obj\Debug\netcoreapp3.1\DLL.AssemblyInfoInputs.cache
+D:\Development\CSharp\DLL\DLL\obj\Debug\netcoreapp3.1\DLL.AssemblyInfo.cs
+D:\Development\CSharp\DLL\DLL\obj\Debug\netcoreapp3.1\DLL.csproj.CopyComplete
+D:\Development\CSharp\DLL\DLL\obj\Debug\netcoreapp3.1\DLL.dll
+D:\Development\CSharp\DLL\DLL\obj\Debug\netcoreapp3.1\DLL.pdb
