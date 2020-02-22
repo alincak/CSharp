@@ -1,0 +1,11 @@
+D:\Development\CSharp\SingleDimensionalArray\SingleDimensionalArray\bin\Debug\netcoreapp3.1\SingleDimensionalArray.exe
+D:\Development\CSharp\SingleDimensionalArray\SingleDimensionalArray\bin\Debug\netcoreapp3.1\SingleDimensionalArray.deps.json
+D:\Development\CSharp\SingleDimensionalArray\SingleDimensionalArray\bin\Debug\netcoreapp3.1\SingleDimensionalArray.runtimeconfig.json
+D:\Development\CSharp\SingleDimensionalArray\SingleDimensionalArray\bin\Debug\netcoreapp3.1\SingleDimensionalArray.runtimeconfig.dev.json
+D:\Development\CSharp\SingleDimensionalArray\SingleDimensionalArray\bin\Debug\netcoreapp3.1\SingleDimensionalArray.dll
+D:\Development\CSharp\SingleDimensionalArray\SingleDimensionalArray\bin\Debug\netcoreapp3.1\SingleDimensionalArray.pdb
+D:\Development\CSharp\SingleDimensionalArray\SingleDimensionalArray\obj\Debug\netcoreapp3.1\SingleDimensionalArray.csprojAssemblyReference.cache
+D:\Development\CSharp\SingleDimensionalArray\SingleDimensionalArray\obj\Debug\netcoreapp3.1\SingleDimensionalArray.AssemblyInfoInputs.cache
+D:\Development\CSharp\SingleDimensionalArray\SingleDimensionalArray\obj\Debug\netcoreapp3.1\SingleDimensionalArray.AssemblyInfo.cs
+D:\Development\CSharp\SingleDimensionalArray\SingleDimensionalArray\obj\Debug\netcoreapp3.1\SingleDimensionalArray.dll
+D:\Development\CSharp\SingleDimensionalArray\SingleDimensionalArray\obj\Debug\netcoreapp3.1\SingleDimensionalArray.pdb
