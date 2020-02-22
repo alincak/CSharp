@@ -1,0 +1,11 @@
+D:\Development\CSharp\MultidimensionalArray\MultidimensionalArray\bin\Debug\netcoreapp3.1\MultidimensionalArray.exe
+D:\Development\CSharp\MultidimensionalArray\MultidimensionalArray\bin\Debug\netcoreapp3.1\MultidimensionalArray.deps.json
+D:\Development\CSharp\MultidimensionalArray\MultidimensionalArray\bin\Debug\netcoreapp3.1\MultidimensionalArray.runtimeconfig.json
+D:\Development\CSharp\MultidimensionalArray\MultidimensionalArray\bin\Debug\netcoreapp3.1\MultidimensionalArray.runtimeconfig.dev.json
+D:\Development\CSharp\MultidimensionalArray\MultidimensionalArray\bin\Debug\netcoreapp3.1\MultidimensionalArray.dll
+D:\Development\CSharp\MultidimensionalArray\MultidimensionalArray\bin\Debug\netcoreapp3.1\MultidimensionalArray.pdb
+D:\Development\CSharp\MultidimensionalArray\MultidimensionalArray\obj\Debug\netcoreapp3.1\MultidimensionalArray.csprojAssemblyReference.cache
+D:\Development\CSharp\MultidimensionalArray\MultidimensionalArray\obj\Debug\netcoreapp3.1\MultidimensionalArray.AssemblyInfoInputs.cache
+D:\Development\CSharp\MultidimensionalArray\MultidimensionalArray\obj\Debug\netcoreapp3.1\MultidimensionalArray.AssemblyInfo.cs
+D:\Development\CSharp\MultidimensionalArray\MultidimensionalArray\obj\Debug\netcoreapp3.1\MultidimensionalArray.dll
+D:\Development\CSharp\MultidimensionalArray\MultidimensionalArray\obj\Debug\netcoreapp3.1\MultidimensionalArray.pdb
