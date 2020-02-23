@@ -1,0 +1,11 @@
+D:\Development\CSharp\ForeachIn\ForeachIn\bin\Debug\netcoreapp3.1\ForeachIn.exe
+D:\Development\CSharp\ForeachIn\ForeachIn\bin\Debug\netcoreapp3.1\ForeachIn.deps.json
+D:\Development\CSharp\ForeachIn\ForeachIn\bin\Debug\netcoreapp3.1\ForeachIn.runtimeconfig.json
+D:\Development\CSharp\ForeachIn\ForeachIn\bin\Debug\netcoreapp3.1\ForeachIn.runtimeconfig.dev.json
+D:\Development\CSharp\ForeachIn\ForeachIn\bin\Debug\netcoreapp3.1\ForeachIn.dll
+D:\Development\CSharp\ForeachIn\ForeachIn\bin\Debug\netcoreapp3.1\ForeachIn.pdb
+D:\Development\CSharp\ForeachIn\ForeachIn\obj\Debug\netcoreapp3.1\ForeachIn.csprojAssemblyReference.cache
+D:\Development\CSharp\ForeachIn\ForeachIn\obj\Debug\netcoreapp3.1\ForeachIn.AssemblyInfoInputs.cache
+D:\Development\CSharp\ForeachIn\ForeachIn\obj\Debug\netcoreapp3.1\ForeachIn.AssemblyInfo.cs
+D:\Development\CSharp\ForeachIn\ForeachIn\obj\Debug\netcoreapp3.1\ForeachIn.dll
+D:\Development\CSharp\ForeachIn\ForeachIn\obj\Debug\netcoreapp3.1\ForeachIn.pdb
