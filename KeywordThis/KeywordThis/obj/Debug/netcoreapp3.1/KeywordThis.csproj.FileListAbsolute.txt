@@ -1,0 +1,11 @@
+D:\Development\CSharp\KeywordThis\KeywordThis\bin\Debug\netcoreapp3.1\KeywordThis.exe
+D:\Development\CSharp\KeywordThis\KeywordThis\bin\Debug\netcoreapp3.1\KeywordThis.deps.json
+D:\Development\CSharp\KeywordThis\KeywordThis\bin\Debug\netcoreapp3.1\KeywordThis.runtimeconfig.json
+D:\Development\CSharp\KeywordThis\KeywordThis\bin\Debug\netcoreapp3.1\KeywordThis.runtimeconfig.dev.json
+D:\Development\CSharp\KeywordThis\KeywordThis\bin\Debug\netcoreapp3.1\KeywordThis.dll
+D:\Development\CSharp\KeywordThis\KeywordThis\bin\Debug\netcoreapp3.1\KeywordThis.pdb
+D:\Development\CSharp\KeywordThis\KeywordThis\obj\Debug\netcoreapp3.1\KeywordThis.csprojAssemblyReference.cache
+D:\Development\CSharp\KeywordThis\KeywordThis\obj\Debug\netcoreapp3.1\KeywordThis.AssemblyInfoInputs.cache
+D:\Development\CSharp\KeywordThis\KeywordThis\obj\Debug\netcoreapp3.1\KeywordThis.AssemblyInfo.cs
+D:\Development\CSharp\KeywordThis\KeywordThis\obj\Debug\netcoreapp3.1\KeywordThis.dll
+D:\Development\CSharp\KeywordThis\KeywordThis\obj\Debug\netcoreapp3.1\KeywordThis.pdb
