@@ -1,0 +1,11 @@
+D:\Development\CSharp\Association\Association\bin\Debug\netcoreapp3.1\Association.exe
+D:\Development\CSharp\Association\Association\bin\Debug\netcoreapp3.1\Association.deps.json
+D:\Development\CSharp\Association\Association\bin\Debug\netcoreapp3.1\Association.runtimeconfig.json
+D:\Development\CSharp\Association\Association\bin\Debug\netcoreapp3.1\Association.runtimeconfig.dev.json
+D:\Development\CSharp\Association\Association\bin\Debug\netcoreapp3.1\Association.dll
+D:\Development\CSharp\Association\Association\bin\Debug\netcoreapp3.1\Association.pdb
+D:\Development\CSharp\Association\Association\obj\Debug\netcoreapp3.1\Association.csprojAssemblyReference.cache
+D:\Development\CSharp\Association\Association\obj\Debug\netcoreapp3.1\Association.AssemblyInfoInputs.cache
+D:\Development\CSharp\Association\Association\obj\Debug\netcoreapp3.1\Association.AssemblyInfo.cs
+D:\Development\CSharp\Association\Association\obj\Debug\netcoreapp3.1\Association.dll
+D:\Development\CSharp\Association\Association\obj\Debug\netcoreapp3.1\Association.pdb
