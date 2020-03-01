@@ -1,0 +1,11 @@
+D:\Development\CSharp\KeywordBase\KeywordBase\bin\Debug\netcoreapp3.1\KeywordBase.exe
+D:\Development\CSharp\KeywordBase\KeywordBase\bin\Debug\netcoreapp3.1\KeywordBase.deps.json
+D:\Development\CSharp\KeywordBase\KeywordBase\bin\Debug\netcoreapp3.1\KeywordBase.runtimeconfig.json
+D:\Development\CSharp\KeywordBase\KeywordBase\bin\Debug\netcoreapp3.1\KeywordBase.runtimeconfig.dev.json
+D:\Development\CSharp\KeywordBase\KeywordBase\bin\Debug\netcoreapp3.1\KeywordBase.dll
+D:\Development\CSharp\KeywordBase\KeywordBase\bin\Debug\netcoreapp3.1\KeywordBase.pdb
+D:\Development\CSharp\KeywordBase\KeywordBase\obj\Debug\netcoreapp3.1\KeywordBase.csprojAssemblyReference.cache
+D:\Development\CSharp\KeywordBase\KeywordBase\obj\Debug\netcoreapp3.1\KeywordBase.AssemblyInfoInputs.cache
+D:\Development\CSharp\KeywordBase\KeywordBase\obj\Debug\netcoreapp3.1\KeywordBase.AssemblyInfo.cs
+D:\Development\CSharp\KeywordBase\KeywordBase\obj\Debug\netcoreapp3.1\KeywordBase.dll
+D:\Development\CSharp\KeywordBase\KeywordBase\obj\Debug\netcoreapp3.1\KeywordBase.pdb
