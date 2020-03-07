@@ -1,0 +1,11 @@
+D:\Development\CSharp\ConstructorThis\ConstructorThis\bin\Debug\netcoreapp3.1\ConstructorThis.exe
+D:\Development\CSharp\ConstructorThis\ConstructorThis\bin\Debug\netcoreapp3.1\ConstructorThis.deps.json
+D:\Development\CSharp\ConstructorThis\ConstructorThis\bin\Debug\netcoreapp3.1\ConstructorThis.runtimeconfig.json
+D:\Development\CSharp\ConstructorThis\ConstructorThis\bin\Debug\netcoreapp3.1\ConstructorThis.runtimeconfig.dev.json
+D:\Development\CSharp\ConstructorThis\ConstructorThis\bin\Debug\netcoreapp3.1\ConstructorThis.dll
+D:\Development\CSharp\ConstructorThis\ConstructorThis\bin\Debug\netcoreapp3.1\ConstructorThis.pdb
+D:\Development\CSharp\ConstructorThis\ConstructorThis\obj\Debug\netcoreapp3.1\ConstructorThis.csprojAssemblyReference.cache
+D:\Development\CSharp\ConstructorThis\ConstructorThis\obj\Debug\netcoreapp3.1\ConstructorThis.AssemblyInfoInputs.cache
+D:\Development\CSharp\ConstructorThis\ConstructorThis\obj\Debug\netcoreapp3.1\ConstructorThis.AssemblyInfo.cs
+D:\Development\CSharp\ConstructorThis\ConstructorThis\obj\Debug\netcoreapp3.1\ConstructorThis.dll
+D:\Development\CSharp\ConstructorThis\ConstructorThis\obj\Debug\netcoreapp3.1\ConstructorThis.pdb
