@@ -1,0 +1,11 @@
+D:\Development\CSharp\ConstructorBase\ConstructorBase\bin\Debug\netcoreapp3.1\ConstructorBase.exe
+D:\Development\CSharp\ConstructorBase\ConstructorBase\bin\Debug\netcoreapp3.1\ConstructorBase.deps.json
+D:\Development\CSharp\ConstructorBase\ConstructorBase\bin\Debug\netcoreapp3.1\ConstructorBase.runtimeconfig.json
+D:\Development\CSharp\ConstructorBase\ConstructorBase\bin\Debug\netcoreapp3.1\ConstructorBase.runtimeconfig.dev.json
+D:\Development\CSharp\ConstructorBase\ConstructorBase\bin\Debug\netcoreapp3.1\ConstructorBase.dll
+D:\Development\CSharp\ConstructorBase\ConstructorBase\bin\Debug\netcoreapp3.1\ConstructorBase.pdb
+D:\Development\CSharp\ConstructorBase\ConstructorBase\obj\Debug\netcoreapp3.1\ConstructorBase.csprojAssemblyReference.cache
+D:\Development\CSharp\ConstructorBase\ConstructorBase\obj\Debug\netcoreapp3.1\ConstructorBase.AssemblyInfoInputs.cache
+D:\Development\CSharp\ConstructorBase\ConstructorBase\obj\Debug\netcoreapp3.1\ConstructorBase.AssemblyInfo.cs
+D:\Development\CSharp\ConstructorBase\ConstructorBase\obj\Debug\netcoreapp3.1\ConstructorBase.dll
+D:\Development\CSharp\ConstructorBase\ConstructorBase\obj\Debug\netcoreapp3.1\ConstructorBase.pdb
