@@ -1,0 +1,13 @@
+D:\udemyprojects\Event\Event\bin\Debug\netcoreapp3.1\Event.exe
+D:\udemyprojects\Event\Event\bin\Debug\netcoreapp3.1\Event.deps.json
+D:\udemyprojects\Event\Event\bin\Debug\netcoreapp3.1\Event.runtimeconfig.json
+D:\udemyprojects\Event\Event\bin\Debug\netcoreapp3.1\Event.runtimeconfig.dev.json
+D:\udemyprojects\Event\Event\bin\Debug\netcoreapp3.1\Event.dll
+D:\udemyprojects\Event\Event\bin\Debug\netcoreapp3.1\Event.pdb
+D:\udemyprojects\Event\Event\obj\Debug\netcoreapp3.1\Event.csprojAssemblyReference.cache
+D:\udemyprojects\Event\Event\obj\Debug\netcoreapp3.1\Event.csproj.CoreCompileInputs.cache
+D:\udemyprojects\Event\Event\obj\Debug\netcoreapp3.1\Event.AssemblyInfoInputs.cache
+D:\udemyprojects\Event\Event\obj\Debug\netcoreapp3.1\Event.AssemblyInfo.cs
+D:\udemyprojects\Event\Event\obj\Debug\netcoreapp3.1\Event.dll
+D:\udemyprojects\Event\Event\obj\Debug\netcoreapp3.1\Event.pdb
+D:\udemyprojects\Event\Event\obj\Debug\netcoreapp3.1\Event.genruntimeconfig.cache

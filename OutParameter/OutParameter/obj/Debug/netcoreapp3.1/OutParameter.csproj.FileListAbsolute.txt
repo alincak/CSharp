@@ -1,0 +1,12 @@
+D:\udemyprojects\OutParameter\OutParameter\bin\Debug\netcoreapp3.1\OutParameter.exe
+D:\udemyprojects\OutParameter\OutParameter\bin\Debug\netcoreapp3.1\OutParameter.deps.json
+D:\udemyprojects\OutParameter\OutParameter\bin\Debug\netcoreapp3.1\OutParameter.runtimeconfig.json
+D:\udemyprojects\OutParameter\OutParameter\bin\Debug\netcoreapp3.1\OutParameter.runtimeconfig.dev.json
+D:\udemyprojects\OutParameter\OutParameter\bin\Debug\netcoreapp3.1\OutParameter.dll
+D:\udemyprojects\OutParameter\OutParameter\bin\Debug\netcoreapp3.1\OutParameter.pdb
+D:\udemyprojects\OutParameter\OutParameter\obj\Debug\netcoreapp3.1\OutParameter.AssemblyInfoInputs.cache
+D:\udemyprojects\OutParameter\OutParameter\obj\Debug\netcoreapp3.1\OutParameter.AssemblyInfo.cs
+D:\udemyprojects\OutParameter\OutParameter\obj\Debug\netcoreapp3.1\OutParameter.csproj.CoreCompileInputs.cache
+D:\udemyprojects\OutParameter\OutParameter\obj\Debug\netcoreapp3.1\OutParameter.dll
+D:\udemyprojects\OutParameter\OutParameter\obj\Debug\netcoreapp3.1\OutParameter.pdb
+D:\udemyprojects\OutParameter\OutParameter\obj\Debug\netcoreapp3.1\OutParameter.genruntimeconfig.cache

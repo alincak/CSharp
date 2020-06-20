@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zumU+qcoqMjsjilRatnAT571m5I0INvqC/2WPS1SuDCE6My8JaJSBAyK+0vteslwsCZ/8tX2nKCftL1iiBlVeA==",
+  "success": true,
+  "projectFilePath": "D:\\udemyprojects\\IsOperator\\IsOperator\\IsOperator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kerem Alincak\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

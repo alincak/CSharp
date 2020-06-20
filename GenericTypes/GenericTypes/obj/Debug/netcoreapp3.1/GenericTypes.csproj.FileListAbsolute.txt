@@ -1,0 +1,13 @@
+D:\udemyprojects\GenericTypes\GenericTypes\bin\Debug\netcoreapp3.1\GenericTypes.exe
+D:\udemyprojects\GenericTypes\GenericTypes\bin\Debug\netcoreapp3.1\GenericTypes.deps.json
+D:\udemyprojects\GenericTypes\GenericTypes\bin\Debug\netcoreapp3.1\GenericTypes.runtimeconfig.json
+D:\udemyprojects\GenericTypes\GenericTypes\bin\Debug\netcoreapp3.1\GenericTypes.runtimeconfig.dev.json
+D:\udemyprojects\GenericTypes\GenericTypes\bin\Debug\netcoreapp3.1\GenericTypes.dll
+D:\udemyprojects\GenericTypes\GenericTypes\bin\Debug\netcoreapp3.1\GenericTypes.pdb
+D:\udemyprojects\GenericTypes\GenericTypes\obj\Debug\netcoreapp3.1\GenericTypes.csprojAssemblyReference.cache
+D:\udemyprojects\GenericTypes\GenericTypes\obj\Debug\netcoreapp3.1\GenericTypes.AssemblyInfoInputs.cache
+D:\udemyprojects\GenericTypes\GenericTypes\obj\Debug\netcoreapp3.1\GenericTypes.AssemblyInfo.cs
+D:\udemyprojects\GenericTypes\GenericTypes\obj\Debug\netcoreapp3.1\GenericTypes.csproj.CoreCompileInputs.cache
+D:\udemyprojects\GenericTypes\GenericTypes\obj\Debug\netcoreapp3.1\GenericTypes.dll
+D:\udemyprojects\GenericTypes\GenericTypes\obj\Debug\netcoreapp3.1\GenericTypes.pdb
+D:\udemyprojects\GenericTypes\GenericTypes\obj\Debug\netcoreapp3.1\GenericTypes.genruntimeconfig.cache

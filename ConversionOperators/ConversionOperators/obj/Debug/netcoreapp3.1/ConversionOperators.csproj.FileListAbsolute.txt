@@ -1,0 +1,12 @@
+D:\udemyprojects\ConversionOperators\ConversionOperators\bin\Debug\netcoreapp3.1\ConversionOperators.exe
+D:\udemyprojects\ConversionOperators\ConversionOperators\bin\Debug\netcoreapp3.1\ConversionOperators.deps.json
+D:\udemyprojects\ConversionOperators\ConversionOperators\bin\Debug\netcoreapp3.1\ConversionOperators.runtimeconfig.json
+D:\udemyprojects\ConversionOperators\ConversionOperators\bin\Debug\netcoreapp3.1\ConversionOperators.runtimeconfig.dev.json
+D:\udemyprojects\ConversionOperators\ConversionOperators\bin\Debug\netcoreapp3.1\ConversionOperators.dll
+D:\udemyprojects\ConversionOperators\ConversionOperators\bin\Debug\netcoreapp3.1\ConversionOperators.pdb
+D:\udemyprojects\ConversionOperators\ConversionOperators\obj\Debug\netcoreapp3.1\ConversionOperators.AssemblyInfoInputs.cache
+D:\udemyprojects\ConversionOperators\ConversionOperators\obj\Debug\netcoreapp3.1\ConversionOperators.AssemblyInfo.cs
+D:\udemyprojects\ConversionOperators\ConversionOperators\obj\Debug\netcoreapp3.1\ConversionOperators.csproj.CoreCompileInputs.cache
+D:\udemyprojects\ConversionOperators\ConversionOperators\obj\Debug\netcoreapp3.1\ConversionOperators.dll
+D:\udemyprojects\ConversionOperators\ConversionOperators\obj\Debug\netcoreapp3.1\ConversionOperators.pdb
+D:\udemyprojects\ConversionOperators\ConversionOperators\obj\Debug\netcoreapp3.1\ConversionOperators.genruntimeconfig.cache

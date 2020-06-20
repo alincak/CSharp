@@ -1,0 +1,13 @@
+D:\udemyprojects\TryFinally\TryFinally\bin\Debug\netcoreapp3.1\TryFinally.exe
+D:\udemyprojects\TryFinally\TryFinally\bin\Debug\netcoreapp3.1\TryFinally.deps.json
+D:\udemyprojects\TryFinally\TryFinally\bin\Debug\netcoreapp3.1\TryFinally.runtimeconfig.json
+D:\udemyprojects\TryFinally\TryFinally\bin\Debug\netcoreapp3.1\TryFinally.runtimeconfig.dev.json
+D:\udemyprojects\TryFinally\TryFinally\bin\Debug\netcoreapp3.1\TryFinally.dll
+D:\udemyprojects\TryFinally\TryFinally\bin\Debug\netcoreapp3.1\TryFinally.pdb
+D:\udemyprojects\TryFinally\TryFinally\obj\Debug\netcoreapp3.1\TryFinally.csprojAssemblyReference.cache
+D:\udemyprojects\TryFinally\TryFinally\obj\Debug\netcoreapp3.1\TryFinally.csproj.CoreCompileInputs.cache
+D:\udemyprojects\TryFinally\TryFinally\obj\Debug\netcoreapp3.1\TryFinally.AssemblyInfoInputs.cache
+D:\udemyprojects\TryFinally\TryFinally\obj\Debug\netcoreapp3.1\TryFinally.AssemblyInfo.cs
+D:\udemyprojects\TryFinally\TryFinally\obj\Debug\netcoreapp3.1\TryFinally.dll
+D:\udemyprojects\TryFinally\TryFinally\obj\Debug\netcoreapp3.1\TryFinally.pdb
+D:\udemyprojects\TryFinally\TryFinally\obj\Debug\netcoreapp3.1\TryFinally.genruntimeconfig.cache

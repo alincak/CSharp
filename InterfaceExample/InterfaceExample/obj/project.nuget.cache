@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hz/CAoTMbySzlzumnl4G8ilEAyUgVJbiNxeoJDAIEV+gS+y//JYuDsa/L6YUdS3IZLXWQyw+B+kLwHWD2XTmGQ==",
+  "success": true,
+  "projectFilePath": "D:\\udemyprojects\\InterfaceExample\\InterfaceExample\\InterfaceExample.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kerem Alincak\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

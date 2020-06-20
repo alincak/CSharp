@@ -1,0 +1,12 @@
+D:\udemyprojects\InParameter\InParameter\bin\Debug\netcoreapp3.1\InParameter.exe
+D:\udemyprojects\InParameter\InParameter\bin\Debug\netcoreapp3.1\InParameter.deps.json
+D:\udemyprojects\InParameter\InParameter\bin\Debug\netcoreapp3.1\InParameter.runtimeconfig.json
+D:\udemyprojects\InParameter\InParameter\bin\Debug\netcoreapp3.1\InParameter.runtimeconfig.dev.json
+D:\udemyprojects\InParameter\InParameter\bin\Debug\netcoreapp3.1\InParameter.dll
+D:\udemyprojects\InParameter\InParameter\bin\Debug\netcoreapp3.1\InParameter.pdb
+D:\udemyprojects\InParameter\InParameter\obj\Debug\netcoreapp3.1\InParameter.AssemblyInfoInputs.cache
+D:\udemyprojects\InParameter\InParameter\obj\Debug\netcoreapp3.1\InParameter.AssemblyInfo.cs
+D:\udemyprojects\InParameter\InParameter\obj\Debug\netcoreapp3.1\InParameter.csproj.CoreCompileInputs.cache
+D:\udemyprojects\InParameter\InParameter\obj\Debug\netcoreapp3.1\InParameter.dll
+D:\udemyprojects\InParameter\InParameter\obj\Debug\netcoreapp3.1\InParameter.pdb
+D:\udemyprojects\InParameter\InParameter\obj\Debug\netcoreapp3.1\InParameter.genruntimeconfig.cache

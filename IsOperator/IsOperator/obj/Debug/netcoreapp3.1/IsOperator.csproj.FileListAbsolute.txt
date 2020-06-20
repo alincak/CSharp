@@ -1,0 +1,12 @@
+D:\udemyprojects\IsOperator\IsOperator\bin\Debug\netcoreapp3.1\IsOperator.exe
+D:\udemyprojects\IsOperator\IsOperator\bin\Debug\netcoreapp3.1\IsOperator.deps.json
+D:\udemyprojects\IsOperator\IsOperator\bin\Debug\netcoreapp3.1\IsOperator.runtimeconfig.json
+D:\udemyprojects\IsOperator\IsOperator\bin\Debug\netcoreapp3.1\IsOperator.runtimeconfig.dev.json
+D:\udemyprojects\IsOperator\IsOperator\bin\Debug\netcoreapp3.1\IsOperator.dll
+D:\udemyprojects\IsOperator\IsOperator\bin\Debug\netcoreapp3.1\IsOperator.pdb
+D:\udemyprojects\IsOperator\IsOperator\obj\Debug\netcoreapp3.1\IsOperator.AssemblyInfoInputs.cache
+D:\udemyprojects\IsOperator\IsOperator\obj\Debug\netcoreapp3.1\IsOperator.AssemblyInfo.cs
+D:\udemyprojects\IsOperator\IsOperator\obj\Debug\netcoreapp3.1\IsOperator.csproj.CoreCompileInputs.cache
+D:\udemyprojects\IsOperator\IsOperator\obj\Debug\netcoreapp3.1\IsOperator.dll
+D:\udemyprojects\IsOperator\IsOperator\obj\Debug\netcoreapp3.1\IsOperator.pdb
+D:\udemyprojects\IsOperator\IsOperator\obj\Debug\netcoreapp3.1\IsOperator.genruntimeconfig.cache

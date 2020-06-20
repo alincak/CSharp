@@ -1,0 +1,13 @@
+D:\udemyprojects\ReadonlyKeyword\ReadonlyKeyword\bin\Debug\netcoreapp3.1\ReadonlyKeyword.exe
+D:\udemyprojects\ReadonlyKeyword\ReadonlyKeyword\bin\Debug\netcoreapp3.1\ReadonlyKeyword.deps.json
+D:\udemyprojects\ReadonlyKeyword\ReadonlyKeyword\bin\Debug\netcoreapp3.1\ReadonlyKeyword.runtimeconfig.json
+D:\udemyprojects\ReadonlyKeyword\ReadonlyKeyword\bin\Debug\netcoreapp3.1\ReadonlyKeyword.runtimeconfig.dev.json
+D:\udemyprojects\ReadonlyKeyword\ReadonlyKeyword\bin\Debug\netcoreapp3.1\ReadonlyKeyword.dll
+D:\udemyprojects\ReadonlyKeyword\ReadonlyKeyword\bin\Debug\netcoreapp3.1\ReadonlyKeyword.pdb
+D:\udemyprojects\ReadonlyKeyword\ReadonlyKeyword\obj\Debug\netcoreapp3.1\ReadonlyKeyword.csprojAssemblyReference.cache
+D:\udemyprojects\ReadonlyKeyword\ReadonlyKeyword\obj\Debug\netcoreapp3.1\ReadonlyKeyword.AssemblyInfoInputs.cache
+D:\udemyprojects\ReadonlyKeyword\ReadonlyKeyword\obj\Debug\netcoreapp3.1\ReadonlyKeyword.AssemblyInfo.cs
+D:\udemyprojects\ReadonlyKeyword\ReadonlyKeyword\obj\Debug\netcoreapp3.1\ReadonlyKeyword.csproj.CoreCompileInputs.cache
+D:\udemyprojects\ReadonlyKeyword\ReadonlyKeyword\obj\Debug\netcoreapp3.1\ReadonlyKeyword.dll
+D:\udemyprojects\ReadonlyKeyword\ReadonlyKeyword\obj\Debug\netcoreapp3.1\ReadonlyKeyword.pdb
+D:\udemyprojects\ReadonlyKeyword\ReadonlyKeyword\obj\Debug\netcoreapp3.1\ReadonlyKeyword.genruntimeconfig.cache

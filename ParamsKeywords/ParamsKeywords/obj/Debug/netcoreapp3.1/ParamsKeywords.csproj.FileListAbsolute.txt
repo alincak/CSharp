@@ -1,0 +1,13 @@
+D:\udemyprojects\ParamsKeywords\ParamsKeywords\bin\Debug\netcoreapp3.1\ParamsKeywords.exe
+D:\udemyprojects\ParamsKeywords\ParamsKeywords\bin\Debug\netcoreapp3.1\ParamsKeywords.deps.json
+D:\udemyprojects\ParamsKeywords\ParamsKeywords\bin\Debug\netcoreapp3.1\ParamsKeywords.runtimeconfig.json
+D:\udemyprojects\ParamsKeywords\ParamsKeywords\bin\Debug\netcoreapp3.1\ParamsKeywords.runtimeconfig.dev.json
+D:\udemyprojects\ParamsKeywords\ParamsKeywords\bin\Debug\netcoreapp3.1\ParamsKeywords.dll
+D:\udemyprojects\ParamsKeywords\ParamsKeywords\bin\Debug\netcoreapp3.1\ParamsKeywords.pdb
+D:\udemyprojects\ParamsKeywords\ParamsKeywords\obj\Debug\netcoreapp3.1\ParamsKeywords.csprojAssemblyReference.cache
+D:\udemyprojects\ParamsKeywords\ParamsKeywords\obj\Debug\netcoreapp3.1\ParamsKeywords.AssemblyInfoInputs.cache
+D:\udemyprojects\ParamsKeywords\ParamsKeywords\obj\Debug\netcoreapp3.1\ParamsKeywords.AssemblyInfo.cs
+D:\udemyprojects\ParamsKeywords\ParamsKeywords\obj\Debug\netcoreapp3.1\ParamsKeywords.csproj.CoreCompileInputs.cache
+D:\udemyprojects\ParamsKeywords\ParamsKeywords\obj\Debug\netcoreapp3.1\ParamsKeywords.dll
+D:\udemyprojects\ParamsKeywords\ParamsKeywords\obj\Debug\netcoreapp3.1\ParamsKeywords.pdb
+D:\udemyprojects\ParamsKeywords\ParamsKeywords\obj\Debug\netcoreapp3.1\ParamsKeywords.genruntimeconfig.cache

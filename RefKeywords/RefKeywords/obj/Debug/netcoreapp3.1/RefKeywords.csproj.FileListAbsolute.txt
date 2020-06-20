@@ -1,0 +1,12 @@
+D:\udemyprojects\RefKeywords\RefKeywords\bin\Debug\netcoreapp3.1\RefKeywords.exe
+D:\udemyprojects\RefKeywords\RefKeywords\bin\Debug\netcoreapp3.1\RefKeywords.deps.json
+D:\udemyprojects\RefKeywords\RefKeywords\bin\Debug\netcoreapp3.1\RefKeywords.runtimeconfig.json
+D:\udemyprojects\RefKeywords\RefKeywords\bin\Debug\netcoreapp3.1\RefKeywords.runtimeconfig.dev.json
+D:\udemyprojects\RefKeywords\RefKeywords\bin\Debug\netcoreapp3.1\RefKeywords.dll
+D:\udemyprojects\RefKeywords\RefKeywords\bin\Debug\netcoreapp3.1\RefKeywords.pdb
+D:\udemyprojects\RefKeywords\RefKeywords\obj\Debug\netcoreapp3.1\RefKeywords.AssemblyInfoInputs.cache
+D:\udemyprojects\RefKeywords\RefKeywords\obj\Debug\netcoreapp3.1\RefKeywords.AssemblyInfo.cs
+D:\udemyprojects\RefKeywords\RefKeywords\obj\Debug\netcoreapp3.1\RefKeywords.csproj.CoreCompileInputs.cache
+D:\udemyprojects\RefKeywords\RefKeywords\obj\Debug\netcoreapp3.1\RefKeywords.dll
+D:\udemyprojects\RefKeywords\RefKeywords\obj\Debug\netcoreapp3.1\RefKeywords.pdb
+D:\udemyprojects\RefKeywords\RefKeywords\obj\Debug\netcoreapp3.1\RefKeywords.genruntimeconfig.cache

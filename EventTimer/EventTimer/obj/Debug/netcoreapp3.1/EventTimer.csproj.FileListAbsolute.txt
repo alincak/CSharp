@@ -1,0 +1,13 @@
+D:\udemyprojects\EventTimer\EventTimer\bin\Debug\netcoreapp3.1\EventTimer.exe
+D:\udemyprojects\EventTimer\EventTimer\bin\Debug\netcoreapp3.1\EventTimer.deps.json
+D:\udemyprojects\EventTimer\EventTimer\bin\Debug\netcoreapp3.1\EventTimer.runtimeconfig.json
+D:\udemyprojects\EventTimer\EventTimer\bin\Debug\netcoreapp3.1\EventTimer.runtimeconfig.dev.json
+D:\udemyprojects\EventTimer\EventTimer\bin\Debug\netcoreapp3.1\EventTimer.dll
+D:\udemyprojects\EventTimer\EventTimer\bin\Debug\netcoreapp3.1\EventTimer.pdb
+D:\udemyprojects\EventTimer\EventTimer\obj\Debug\netcoreapp3.1\EventTimer.csprojAssemblyReference.cache
+D:\udemyprojects\EventTimer\EventTimer\obj\Debug\netcoreapp3.1\EventTimer.csproj.CoreCompileInputs.cache
+D:\udemyprojects\EventTimer\EventTimer\obj\Debug\netcoreapp3.1\EventTimer.AssemblyInfoInputs.cache
+D:\udemyprojects\EventTimer\EventTimer\obj\Debug\netcoreapp3.1\EventTimer.AssemblyInfo.cs
+D:\udemyprojects\EventTimer\EventTimer\obj\Debug\netcoreapp3.1\EventTimer.dll
+D:\udemyprojects\EventTimer\EventTimer\obj\Debug\netcoreapp3.1\EventTimer.pdb
+D:\udemyprojects\EventTimer\EventTimer\obj\Debug\netcoreapp3.1\EventTimer.genruntimeconfig.cache

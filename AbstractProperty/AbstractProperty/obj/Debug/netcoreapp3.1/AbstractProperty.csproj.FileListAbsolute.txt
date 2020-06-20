@@ -1,0 +1,13 @@
+D:\udemyprojects\AbstractProperty\AbstractProperty\bin\Debug\netcoreapp3.1\AbstractProperty.exe
+D:\udemyprojects\AbstractProperty\AbstractProperty\bin\Debug\netcoreapp3.1\AbstractProperty.deps.json
+D:\udemyprojects\AbstractProperty\AbstractProperty\bin\Debug\netcoreapp3.1\AbstractProperty.runtimeconfig.json
+D:\udemyprojects\AbstractProperty\AbstractProperty\bin\Debug\netcoreapp3.1\AbstractProperty.runtimeconfig.dev.json
+D:\udemyprojects\AbstractProperty\AbstractProperty\bin\Debug\netcoreapp3.1\AbstractProperty.dll
+D:\udemyprojects\AbstractProperty\AbstractProperty\bin\Debug\netcoreapp3.1\AbstractProperty.pdb
+D:\udemyprojects\AbstractProperty\AbstractProperty\obj\Debug\netcoreapp3.1\AbstractProperty.csprojAssemblyReference.cache
+D:\udemyprojects\AbstractProperty\AbstractProperty\obj\Debug\netcoreapp3.1\AbstractProperty.csproj.CoreCompileInputs.cache
+D:\udemyprojects\AbstractProperty\AbstractProperty\obj\Debug\netcoreapp3.1\AbstractProperty.AssemblyInfoInputs.cache
+D:\udemyprojects\AbstractProperty\AbstractProperty\obj\Debug\netcoreapp3.1\AbstractProperty.AssemblyInfo.cs
+D:\udemyprojects\AbstractProperty\AbstractProperty\obj\Debug\netcoreapp3.1\AbstractProperty.dll
+D:\udemyprojects\AbstractProperty\AbstractProperty\obj\Debug\netcoreapp3.1\AbstractProperty.pdb
+D:\udemyprojects\AbstractProperty\AbstractProperty\obj\Debug\netcoreapp3.1\AbstractProperty.genruntimeconfig.cache

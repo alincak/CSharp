@@ -1,0 +1,13 @@
+D:\udemyprojects\InterfaceExample\InterfaceExample\bin\Debug\netcoreapp3.1\InterfaceExample.exe
+D:\udemyprojects\InterfaceExample\InterfaceExample\bin\Debug\netcoreapp3.1\InterfaceExample.deps.json
+D:\udemyprojects\InterfaceExample\InterfaceExample\bin\Debug\netcoreapp3.1\InterfaceExample.runtimeconfig.json
+D:\udemyprojects\InterfaceExample\InterfaceExample\bin\Debug\netcoreapp3.1\InterfaceExample.runtimeconfig.dev.json
+D:\udemyprojects\InterfaceExample\InterfaceExample\bin\Debug\netcoreapp3.1\InterfaceExample.dll
+D:\udemyprojects\InterfaceExample\InterfaceExample\bin\Debug\netcoreapp3.1\InterfaceExample.pdb
+D:\udemyprojects\InterfaceExample\InterfaceExample\obj\Debug\netcoreapp3.1\InterfaceExample.csprojAssemblyReference.cache
+D:\udemyprojects\InterfaceExample\InterfaceExample\obj\Debug\netcoreapp3.1\InterfaceExample.AssemblyInfoInputs.cache
+D:\udemyprojects\InterfaceExample\InterfaceExample\obj\Debug\netcoreapp3.1\InterfaceExample.AssemblyInfo.cs
+D:\udemyprojects\InterfaceExample\InterfaceExample\obj\Debug\netcoreapp3.1\InterfaceExample.csproj.CoreCompileInputs.cache
+D:\udemyprojects\InterfaceExample\InterfaceExample\obj\Debug\netcoreapp3.1\InterfaceExample.dll
+D:\udemyprojects\InterfaceExample\InterfaceExample\obj\Debug\netcoreapp3.1\InterfaceExample.pdb
+D:\udemyprojects\InterfaceExample\InterfaceExample\obj\Debug\netcoreapp3.1\InterfaceExample.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\udemyprojects\Exceptions\Exceptions\bin\Debug\netcoreapp3.1\Exceptions.exe
+D:\udemyprojects\Exceptions\Exceptions\bin\Debug\netcoreapp3.1\Exceptions.deps.json
+D:\udemyprojects\Exceptions\Exceptions\bin\Debug\netcoreapp3.1\Exceptions.runtimeconfig.json
+D:\udemyprojects\Exceptions\Exceptions\bin\Debug\netcoreapp3.1\Exceptions.runtimeconfig.dev.json
+D:\udemyprojects\Exceptions\Exceptions\bin\Debug\netcoreapp3.1\Exceptions.dll
+D:\udemyprojects\Exceptions\Exceptions\bin\Debug\netcoreapp3.1\Exceptions.pdb
+D:\udemyprojects\Exceptions\Exceptions\obj\Debug\netcoreapp3.1\Exceptions.csprojAssemblyReference.cache
+D:\udemyprojects\Exceptions\Exceptions\obj\Debug\netcoreapp3.1\Exceptions.csproj.CoreCompileInputs.cache
+D:\udemyprojects\Exceptions\Exceptions\obj\Debug\netcoreapp3.1\Exceptions.AssemblyInfoInputs.cache
+D:\udemyprojects\Exceptions\Exceptions\obj\Debug\netcoreapp3.1\Exceptions.AssemblyInfo.cs
+D:\udemyprojects\Exceptions\Exceptions\obj\Debug\netcoreapp3.1\Exceptions.dll
+D:\udemyprojects\Exceptions\Exceptions\obj\Debug\netcoreapp3.1\Exceptions.pdb
+D:\udemyprojects\Exceptions\Exceptions\obj\Debug\netcoreapp3.1\Exceptions.genruntimeconfig.cache

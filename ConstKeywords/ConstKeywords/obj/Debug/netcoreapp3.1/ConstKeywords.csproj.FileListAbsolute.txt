@@ -1,0 +1,12 @@
+D:\udemyprojects\ConstKeywords\ConstKeywords\bin\Debug\netcoreapp3.1\ConstKeywords.exe
+D:\udemyprojects\ConstKeywords\ConstKeywords\bin\Debug\netcoreapp3.1\ConstKeywords.deps.json
+D:\udemyprojects\ConstKeywords\ConstKeywords\bin\Debug\netcoreapp3.1\ConstKeywords.runtimeconfig.json
+D:\udemyprojects\ConstKeywords\ConstKeywords\bin\Debug\netcoreapp3.1\ConstKeywords.runtimeconfig.dev.json
+D:\udemyprojects\ConstKeywords\ConstKeywords\bin\Debug\netcoreapp3.1\ConstKeywords.dll
+D:\udemyprojects\ConstKeywords\ConstKeywords\bin\Debug\netcoreapp3.1\ConstKeywords.pdb
+D:\udemyprojects\ConstKeywords\ConstKeywords\obj\Debug\netcoreapp3.1\ConstKeywords.AssemblyInfoInputs.cache
+D:\udemyprojects\ConstKeywords\ConstKeywords\obj\Debug\netcoreapp3.1\ConstKeywords.AssemblyInfo.cs
+D:\udemyprojects\ConstKeywords\ConstKeywords\obj\Debug\netcoreapp3.1\ConstKeywords.csproj.CoreCompileInputs.cache
+D:\udemyprojects\ConstKeywords\ConstKeywords\obj\Debug\netcoreapp3.1\ConstKeywords.dll
+D:\udemyprojects\ConstKeywords\ConstKeywords\obj\Debug\netcoreapp3.1\ConstKeywords.pdb
+D:\udemyprojects\ConstKeywords\ConstKeywords\obj\Debug\netcoreapp3.1\ConstKeywords.genruntimeconfig.cache

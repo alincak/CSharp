@@ -1,0 +1,12 @@
+D:\udemyprojects\DelegateTimer\DelegateTimer\bin\Debug\netcoreapp3.1\DelegateTimer.exe
+D:\udemyprojects\DelegateTimer\DelegateTimer\bin\Debug\netcoreapp3.1\DelegateTimer.deps.json
+D:\udemyprojects\DelegateTimer\DelegateTimer\bin\Debug\netcoreapp3.1\DelegateTimer.runtimeconfig.json
+D:\udemyprojects\DelegateTimer\DelegateTimer\bin\Debug\netcoreapp3.1\DelegateTimer.runtimeconfig.dev.json
+D:\udemyprojects\DelegateTimer\DelegateTimer\bin\Debug\netcoreapp3.1\DelegateTimer.dll
+D:\udemyprojects\DelegateTimer\DelegateTimer\bin\Debug\netcoreapp3.1\DelegateTimer.pdb
+D:\udemyprojects\DelegateTimer\DelegateTimer\obj\Debug\netcoreapp3.1\DelegateTimer.csproj.CoreCompileInputs.cache
+D:\udemyprojects\DelegateTimer\DelegateTimer\obj\Debug\netcoreapp3.1\DelegateTimer.AssemblyInfoInputs.cache
+D:\udemyprojects\DelegateTimer\DelegateTimer\obj\Debug\netcoreapp3.1\DelegateTimer.AssemblyInfo.cs
+D:\udemyprojects\DelegateTimer\DelegateTimer\obj\Debug\netcoreapp3.1\DelegateTimer.dll
+D:\udemyprojects\DelegateTimer\DelegateTimer\obj\Debug\netcoreapp3.1\DelegateTimer.pdb
+D:\udemyprojects\DelegateTimer\DelegateTimer\obj\Debug\netcoreapp3.1\DelegateTimer.genruntimeconfig.cache

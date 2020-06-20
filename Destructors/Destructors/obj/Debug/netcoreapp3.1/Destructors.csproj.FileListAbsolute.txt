@@ -1,0 +1,13 @@
+D:\udemyprojects\Destructors\Destructors\bin\Debug\netcoreapp3.1\Destructors.exe
+D:\udemyprojects\Destructors\Destructors\bin\Debug\netcoreapp3.1\Destructors.deps.json
+D:\udemyprojects\Destructors\Destructors\bin\Debug\netcoreapp3.1\Destructors.runtimeconfig.json
+D:\udemyprojects\Destructors\Destructors\bin\Debug\netcoreapp3.1\Destructors.runtimeconfig.dev.json
+D:\udemyprojects\Destructors\Destructors\bin\Debug\netcoreapp3.1\Destructors.dll
+D:\udemyprojects\Destructors\Destructors\bin\Debug\netcoreapp3.1\Destructors.pdb
+D:\udemyprojects\Destructors\Destructors\obj\Debug\netcoreapp3.1\Destructors.csprojAssemblyReference.cache
+D:\udemyprojects\Destructors\Destructors\obj\Debug\netcoreapp3.1\Destructors.AssemblyInfoInputs.cache
+D:\udemyprojects\Destructors\Destructors\obj\Debug\netcoreapp3.1\Destructors.AssemblyInfo.cs
+D:\udemyprojects\Destructors\Destructors\obj\Debug\netcoreapp3.1\Destructors.csproj.CoreCompileInputs.cache
+D:\udemyprojects\Destructors\Destructors\obj\Debug\netcoreapp3.1\Destructors.dll
+D:\udemyprojects\Destructors\Destructors\obj\Debug\netcoreapp3.1\Destructors.pdb
+D:\udemyprojects\Destructors\Destructors\obj\Debug\netcoreapp3.1\Destructors.genruntimeconfig.cache

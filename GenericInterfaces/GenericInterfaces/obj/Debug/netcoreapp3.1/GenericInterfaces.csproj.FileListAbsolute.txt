@@ -1,0 +1,12 @@
+D:\udemyprojects\GenericInterfaces\GenericInterfaces\bin\Debug\netcoreapp3.1\GenericInterfaces.exe
+D:\udemyprojects\GenericInterfaces\GenericInterfaces\bin\Debug\netcoreapp3.1\GenericInterfaces.deps.json
+D:\udemyprojects\GenericInterfaces\GenericInterfaces\bin\Debug\netcoreapp3.1\GenericInterfaces.runtimeconfig.json
+D:\udemyprojects\GenericInterfaces\GenericInterfaces\bin\Debug\netcoreapp3.1\GenericInterfaces.runtimeconfig.dev.json
+D:\udemyprojects\GenericInterfaces\GenericInterfaces\bin\Debug\netcoreapp3.1\GenericInterfaces.dll
+D:\udemyprojects\GenericInterfaces\GenericInterfaces\bin\Debug\netcoreapp3.1\GenericInterfaces.pdb
+D:\udemyprojects\GenericInterfaces\GenericInterfaces\obj\Debug\netcoreapp3.1\GenericInterfaces.AssemblyInfoInputs.cache
+D:\udemyprojects\GenericInterfaces\GenericInterfaces\obj\Debug\netcoreapp3.1\GenericInterfaces.AssemblyInfo.cs
+D:\udemyprojects\GenericInterfaces\GenericInterfaces\obj\Debug\netcoreapp3.1\GenericInterfaces.csproj.CoreCompileInputs.cache
+D:\udemyprojects\GenericInterfaces\GenericInterfaces\obj\Debug\netcoreapp3.1\GenericInterfaces.dll
+D:\udemyprojects\GenericInterfaces\GenericInterfaces\obj\Debug\netcoreapp3.1\GenericInterfaces.pdb
+D:\udemyprojects\GenericInterfaces\GenericInterfaces\obj\Debug\netcoreapp3.1\GenericInterfaces.genruntimeconfig.cache

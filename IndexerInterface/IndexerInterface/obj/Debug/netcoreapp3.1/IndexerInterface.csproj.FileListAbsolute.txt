@@ -1,0 +1,13 @@
+D:\udemyprojects\IndexerInterface\IndexerInterface\bin\Debug\netcoreapp3.1\IndexerInterface.exe
+D:\udemyprojects\IndexerInterface\IndexerInterface\bin\Debug\netcoreapp3.1\IndexerInterface.deps.json
+D:\udemyprojects\IndexerInterface\IndexerInterface\bin\Debug\netcoreapp3.1\IndexerInterface.runtimeconfig.json
+D:\udemyprojects\IndexerInterface\IndexerInterface\bin\Debug\netcoreapp3.1\IndexerInterface.runtimeconfig.dev.json
+D:\udemyprojects\IndexerInterface\IndexerInterface\bin\Debug\netcoreapp3.1\IndexerInterface.dll
+D:\udemyprojects\IndexerInterface\IndexerInterface\bin\Debug\netcoreapp3.1\IndexerInterface.pdb
+D:\udemyprojects\IndexerInterface\IndexerInterface\obj\Debug\netcoreapp3.1\IndexerInterface.csprojAssemblyReference.cache
+D:\udemyprojects\IndexerInterface\IndexerInterface\obj\Debug\netcoreapp3.1\IndexerInterface.AssemblyInfoInputs.cache
+D:\udemyprojects\IndexerInterface\IndexerInterface\obj\Debug\netcoreapp3.1\IndexerInterface.AssemblyInfo.cs
+D:\udemyprojects\IndexerInterface\IndexerInterface\obj\Debug\netcoreapp3.1\IndexerInterface.csproj.CoreCompileInputs.cache
+D:\udemyprojects\IndexerInterface\IndexerInterface\obj\Debug\netcoreapp3.1\IndexerInterface.dll
+D:\udemyprojects\IndexerInterface\IndexerInterface\obj\Debug\netcoreapp3.1\IndexerInterface.pdb
+D:\udemyprojects\IndexerInterface\IndexerInterface\obj\Debug\netcoreapp3.1\IndexerInterface.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\udemyprojects\GenericMethods\GenericMethods\bin\Debug\netcoreapp3.1\GenericMethods.exe
+D:\udemyprojects\GenericMethods\GenericMethods\bin\Debug\netcoreapp3.1\GenericMethods.deps.json
+D:\udemyprojects\GenericMethods\GenericMethods\bin\Debug\netcoreapp3.1\GenericMethods.runtimeconfig.json
+D:\udemyprojects\GenericMethods\GenericMethods\bin\Debug\netcoreapp3.1\GenericMethods.runtimeconfig.dev.json
+D:\udemyprojects\GenericMethods\GenericMethods\bin\Debug\netcoreapp3.1\GenericMethods.dll
+D:\udemyprojects\GenericMethods\GenericMethods\bin\Debug\netcoreapp3.1\GenericMethods.pdb
+D:\udemyprojects\GenericMethods\GenericMethods\obj\Debug\netcoreapp3.1\GenericMethods.csprojAssemblyReference.cache
+D:\udemyprojects\GenericMethods\GenericMethods\obj\Debug\netcoreapp3.1\GenericMethods.AssemblyInfoInputs.cache
+D:\udemyprojects\GenericMethods\GenericMethods\obj\Debug\netcoreapp3.1\GenericMethods.AssemblyInfo.cs
+D:\udemyprojects\GenericMethods\GenericMethods\obj\Debug\netcoreapp3.1\GenericMethods.csproj.CoreCompileInputs.cache
+D:\udemyprojects\GenericMethods\GenericMethods\obj\Debug\netcoreapp3.1\GenericMethods.dll
+D:\udemyprojects\GenericMethods\GenericMethods\obj\Debug\netcoreapp3.1\GenericMethods.pdb
+D:\udemyprojects\GenericMethods\GenericMethods\obj\Debug\netcoreapp3.1\GenericMethods.genruntimeconfig.cache

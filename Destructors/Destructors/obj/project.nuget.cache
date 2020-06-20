@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Gl65+sJNV5yY3rb+AiptTVx7jUJL0qwyA8snScsFT8ISDEaHHNjYs4w31LibFaj3z8YBycYG4rKJ+rn3tg3e2Q==",
+  "success": true,
+  "projectFilePath": "D:\\udemyprojects\\Destructors\\Destructors\\Destructors.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kerem Alincak\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
