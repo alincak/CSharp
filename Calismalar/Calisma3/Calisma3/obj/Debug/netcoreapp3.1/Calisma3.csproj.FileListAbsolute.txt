@@ -1,0 +1,13 @@
+D:\Development\CSharp\Calismalar\Calisma3\Calisma3\bin\Debug\netcoreapp3.1\Calisma3.exe
+D:\Development\CSharp\Calismalar\Calisma3\Calisma3\bin\Debug\netcoreapp3.1\Calisma3.deps.json
+D:\Development\CSharp\Calismalar\Calisma3\Calisma3\bin\Debug\netcoreapp3.1\Calisma3.runtimeconfig.json
+D:\Development\CSharp\Calismalar\Calisma3\Calisma3\bin\Debug\netcoreapp3.1\Calisma3.runtimeconfig.dev.json
+D:\Development\CSharp\Calismalar\Calisma3\Calisma3\bin\Debug\netcoreapp3.1\Calisma3.dll
+D:\Development\CSharp\Calismalar\Calisma3\Calisma3\bin\Debug\netcoreapp3.1\Calisma3.pdb
+D:\Development\CSharp\Calismalar\Calisma3\Calisma3\obj\Debug\netcoreapp3.1\Calisma3.csprojAssemblyReference.cache
+D:\Development\CSharp\Calismalar\Calisma3\Calisma3\obj\Debug\netcoreapp3.1\Calisma3.AssemblyInfoInputs.cache
+D:\Development\CSharp\Calismalar\Calisma3\Calisma3\obj\Debug\netcoreapp3.1\Calisma3.AssemblyInfo.cs
+D:\Development\CSharp\Calismalar\Calisma3\Calisma3\obj\Debug\netcoreapp3.1\Calisma3.csproj.CoreCompileInputs.cache
+D:\Development\CSharp\Calismalar\Calisma3\Calisma3\obj\Debug\netcoreapp3.1\Calisma3.dll
+D:\Development\CSharp\Calismalar\Calisma3\Calisma3\obj\Debug\netcoreapp3.1\Calisma3.pdb
+D:\Development\CSharp\Calismalar\Calisma3\Calisma3\obj\Debug\netcoreapp3.1\Calisma3.genruntimeconfig.cache

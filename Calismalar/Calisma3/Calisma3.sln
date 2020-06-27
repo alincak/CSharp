@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calisma3", "Calisma3\Calisma3.csproj", "{CCAB3448-8FB8-44DF-B573-160E5062BF27}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CCAB3448-8FB8-44DF-B573-160E5062BF27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCAB3448-8FB8-44DF-B573-160E5062BF27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCAB3448-8FB8-44DF-B573-160E5062BF27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCAB3448-8FB8-44DF-B573-160E5062BF27}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {98489360-C26A-428B-897B-1EFB6687C27A}
+	EndGlobalSection
+EndGlobal
