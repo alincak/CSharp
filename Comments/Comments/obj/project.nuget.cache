@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "0kS5l7yqCcubaCBeEfHg3TS1isHqyu/aKS/Ojkzte8NErvAHNCYHpzLN1WWVPlfN7qrQQVN+2q/PLRk/J3qJJg==",
+  "success": true,
+  "projectFilePath": "D:\\Development\\CSharp\\Comments\\Comments\\Comments.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\home\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\home\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
